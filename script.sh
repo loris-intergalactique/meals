@@ -25,6 +25,7 @@ get_weekly_recipes() {
         | sed 's/Plat-principal/--> Plat-principal/g' \
         | sed 's/Dessert/--> Dessert/g' \
         | sed 's/Confiserie/--> Confiserie/g' \
+        | sed 's/Accompagnement/--> Accompagnement/g' \
         | sed 's/Entrée/--> Entrée/g' \
         | sed -e 's/^\([^- ]\)/--->\1/g'
 }
