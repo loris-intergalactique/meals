@@ -27,7 +27,7 @@ get_weekly_recipes() {
         | sed 's/Confiserie/--> Confiserie/g' \
         | sed 's/Accompagnement/--> Accompagnement/g' \
         | sed 's/Entrée/--> Entrée/g' \
-        | sed -e 's/^\([^- ]\)/--->\1/g'
+        | sed -e 's/^\([^- ]\)/------------>\1<---------/g'
 }
 
 get_ingredients() {
@@ -54,8 +54,8 @@ get_ingredients() {
 get_weekly_ingredients() {
     get_weekly_recipes \
         | while read line; do
-            echo $line
-            (echo $line | grep -E "^--->" > /dev/null) && get_ingredients "${line}"
+            echo $line | grep -v "data-cookbook" # random recipe that nobody wants
+            (echo $line | grep -E "^--->" |grep -v "data-cookbook" > /dev/null) && get_ingredients "${line}"
             done
 }
 
