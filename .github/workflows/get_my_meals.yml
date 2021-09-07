@@ -1,4 +1,5 @@
 name: Meal retrieval
+# Trigger me
 
 on:
   schedule:
