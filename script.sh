@@ -41,7 +41,7 @@ get_ingredients() {
         | head -n1)
 
     curl --silent "https://www.marmiton.org${WEBSITE_PAGE}" \
-        | grep -E '{"props":.*"customServer":(true|false)}' -o \
+        | grep -E '."props":.*"customServer":(true|false)}' -o \
         | jq -r '.props.pageProps.recipeData.recipe.ingredientGroups[]
             | .items[]
             | [ "---> " + .name + " " + .complement + " : " + (.ingredientQuantity|tostring) + " " + .unitName]
