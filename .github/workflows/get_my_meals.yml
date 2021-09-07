@@ -1,0 +1,38 @@
+name: Meal retrieval
+
+on:
+  schedule:
+    - cron: '0 9 * * SUN'
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/get_my_meals.yml'
+      
+jobs:
+  build:
+    name: Main
+    runs-on: ubuntu-latest
+    steps:
+      - name: Main repository Checkout
+        uses: actions/checkout@v1
+
+      - name: Meal retrieval
+        run: |
+          bash script.sh > this_weeks_meal.txt
+          
+      - name: Git Configuration
+        run: |
+          git config --local user.name "bot-intergalactique"
+          
+      - name: Git Merge
+        continue-on-error: true
+        run: |
+          git add .
+          git commit -m "meal: update"
+          
+      - name: GitHub Push
+        continue-on-error: true
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
