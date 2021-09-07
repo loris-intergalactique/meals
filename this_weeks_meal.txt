@@ -1,6 +1,6 @@
 -> Mardi-Midi
 --> Amuse-gueule
---->Pizza-façon-gyoza
+----------->Pizza-façon-gyoza
 ----> pâte à pizza  : 1 
 ----> sauce tomate  : 10 cuillère à café
 ----> origan  : null 
@@ -10,7 +10,7 @@
 ----> olives noires en rondelles : 10 
 ----> oeuf battu : 1 
 --> Amuse-gueule
---->Chaussons-au-thon
+----------->Chaussons-au-thon
 ----> pâte feuilletée  : 1 
 ----> tomate  : 2 
 ----> lait  : 1 trait
@@ -21,7 +21,7 @@
 ----> oeuf  : 1 
 ----> gruyère râpé  : null 
 --> Plat-principal
---->Croque-de-riz-aux-poivrons
+----------->Croque-de-riz-aux-poivrons
 ----> ail  : 2 gousse
 ----> parmesan râpé  : 2 cuillère à soupe
 ----> sel  : 1 pincée
@@ -35,7 +35,7 @@
 ----> oignon  : 2 
 ----> guacamole  : 4 cuillère à soupe
 --> Plat-principal
---->Rôti-de-veau-farci-à-l'italienne
+----------->Rôti-de-veau-farci-à-l'italienne
 ----> courgette  : 2 
 ----> carotte  : 3 
 ----> pomme de terre  : 4 
@@ -53,19 +53,19 @@
 ----> oignon  : 1 
 ----> feuille de laurier  : 2 
 --> Dessert
---->Semoule-au-lait-toute-simple
+----------->Semoule-au-lait-toute-simple
 ----> lait  : 1 l
 ----> sucre  : 70 g
 ----> semoule très fine : 100 g
 --> Dessert
---->Pommes-au-four-à-la-normande
+----------->Pommes-au-four-à-la-normande
 ----> pomme reinettes : 6 
 ----> sucre en poudre  : 100 g
 ----> beurre  : 30 g
 ----> cidre  : 20 cl
 -> Mardi-Soir
 --> Entrée
---->Quiche-aux-champignons-et-jambon-cru
+----------->Quiche-aux-champignons-et-jambon-cru
 ----> pâte brisée  : 1 
 ----> champignon  : 400 g
 ----> jambon cru : 100 g
@@ -77,7 +77,7 @@
 ----> oeuf  : 3 
 ----> beurre  : 40 g
 --> Entrée
---->Gratin-d'oeufs-aux-brocolis
+----------->Gratin-d'oeufs-aux-brocolis
 ----> muscade  : 1 
 ----> poivre  : null 
 ----> sel  : null 
@@ -87,7 +87,7 @@
 ----> brocoli  : 3 
 ----> poivre de Cayenne  : 1 pointe
 --> Plat-principal
---->Aubergines-farcies-à-la-crétoise
+----------->Aubergines-farcies-à-la-crétoise
 ----> aubergine  : 1 
 ----> tomate  : 1 
 ----> oignon  : 2 
@@ -96,7 +96,7 @@
 ----> Condiments (sel, poivre, persil, ail, basilic, huile d'olive...) : null 
 ----> gruyère râpé ... : 25 g
 --> Plat-principal
---->Boulettes-de-boeuf-scandinaves
+----------->Boulettes-de-boeuf-scandinaves
 ----> ketchup  : null 
 ----> poivre  : null 
 ----> sel  : null 
@@ -107,7 +107,7 @@
 ----> oeuf  : 1 
 ----> chapelure fine : 2 cuillère à soupe
 --> Dessert
---->Cannelés-au-chocolat
+----------->Cannelés-au-chocolat
 ----> chocolat noir  : 70 g
 ----> lait  : 50 cl
 ----> vanille  : 1 gousse
@@ -119,7 +119,7 @@
 ----> oeuf entiers + 2 jaunes : 2 
 ----> cacao amer  : 20 g
 --> Dessert
---->beignets-de-potiron-au-sucre-et-à-la-cannelle-(portugal)
+----------->beignets-de-potiron-au-sucre-et-à-la-cannelle-(portugal)
 ----> farine  : 1 kg
 ----> levure de boulanger  : 1 cube
 ----> sel  : 2 pincée
@@ -129,7 +129,7 @@
 ----> potiron  : 1 kg
 -> Mercredi-Midi
 --> Entrée
---->Soupe-de-citrouille-aux-chanterelles
+----------->Soupe-de-citrouille-aux-chanterelles
 ----> ail  : 2 gousse
 ----> poivre  : null 
 ----> sel  : null 
@@ -137,7 +137,7 @@
 ----> chanterelle fraîches : 200 g
 ----> beurre  : 1 morceau
 --> Entrée
---->Mini-pizzas-du-diable-(spécial-Halloween)
+----------->Mini-pizzas-du-diable-(spécial-Halloween)
 ----> sauce tomate  : 1 cuillère
 ----> olives  : 2 
 ----> poivron  : null lamelle
@@ -147,14 +147,14 @@
 ----> mozzarella  : null 
 ----> oignon  : 1 
 --> Plat-principal
---->Oeufs-à-la-tomate-et-chorizo
+----------->Oeufs-à-la-tomate-et-chorizo
 ----> tomate  : 8 
 ----> ail  : 3 gousse
 ----> chorizo  : 12 tranche
 ----> huile d'olive  : null 
 ----> oeuf de petite taille : 8 
 --> Plat-principal
---->Filet-de-marcassin-à-l'orange
+----------->Filet-de-marcassin-à-l'orange
 ----> carotte  : 2 
 ----> céleri  : null l
 ----> thym  : 1 brin
@@ -170,7 +170,7 @@
 ----> échalote  : 3 
 ----> beurre  : 60 g
 --> Dessert
---->Poêlée-de-poires-à-la-vanille
+----------->Poêlée-de-poires-à-la-vanille
 ----> cassonade  : 100 g
 ----> vanille  : 0.5 bâton
 ----> citron non traité : 1 
@@ -180,14 +180,14 @@
 ----> cannelle  : 0.5 cuillère à café
 ----> beurre demi-sel  : 50 g
 --> Dessert
---->mousse-framboise-ou-fraise
+----------->mousse-framboise-ou-fraise
 ----> sucre  : 125 g
 ----> gélatine  : 6 feuille
 ----> framboises  : 500 g
 ----> crème fraîche (liquide) : 500 g
 -> Mercredi-Soir
 --> Entrée
---->gougère-à-l'andouillette
+----------->gougère-à-l'andouillette
 ----> eau  : 25 cl
 ----> poivre  : null 
 ----> sel  : null 
@@ -199,12 +199,12 @@
 ----> andouillette (300 g) : 1 
 ----> oignon  : 1 
 --> Entrée
---->Flans-de-courgettes-simples
+----------->Flans-de-courgettes-simples
 ----> courgette fraîches ou surgelées : 1 kg
 ----> oeuf  : 6 
 ----> crème fraîche  : 120 g
 --> Plat-principal
---->Moules-marinières
+----------->Moules-marinières
 ----> vin blanc  : 25 cl
 ----> céleri  : 1 branche
 ----> persil  : 0.5 botte
@@ -212,7 +212,7 @@
 ----> beurre  : 20 g
 ----> oignon  : 2 
 --> Plat-principal
---->Le-Welsh-Boulonnais
+----------->Le-Welsh-Boulonnais
 ----> pain de mie ou de pain (sans la croûte) : 1 tranche
 ----> poivre  : null 
 ----> muscade  : null 
@@ -220,7 +220,7 @@
 ----> cheddar orange : 250 g
 ----> bière blonde ou ambrée (pour un goût différent) : 2 cl
 --> Dessert
---->Push-cake-facile-aux-biscuits-roses-et-aux-framboises
+----------->Push-cake-facile-aux-biscuits-roses-et-aux-framboises
 ----> vanille  : 1 gousse
 ----> sucre glace  : 25 g
 ----> sucre  : null 
@@ -229,7 +229,7 @@
 ----> mascarpone  : 175 g
 ----> crème liquide entière : 25 cl
 --> Dessert
---->crumble-aux-mûres
+----------->crumble-aux-mûres
 ----> parmesan  : null 
 ----> farine  : null 
 ----> poivre  : null 
@@ -245,21 +245,21 @@
 ----> poivron rouge  : 1 
 -> Jeudi-Midi
 --> Amuse-gueule
---->Pizza-sticks
+----------->Pizza-sticks
 ----> pâte à pizza  : 1 
 ----> jambon  : 3 tranche
 ----> origan  : 1 cuillère à soupe
 ----> coulis de tomate  : 15 cl
 ----> fromage râpé  : 70 g
 --> Entrée
---->Blinis-faciles-maison
+----------->Blinis-faciles-maison
 ----> levure chimique  : 0.5 sachet
 ----> sel  : 1 pincée
 ----> yaourt bulgare : 1 
 ----> oeuf  : 1 
 ----> yaourt de farine : 1 pot
 --> Accompagnement
---->Hasselback-potatoes-:-pommes-de-terre-rôties-à-la-suédoise
+----------->Hasselback-potatoes-:-pommes-de-terre-rôties-à-la-suédoise
 ----> pomme de terre  : 4 
 ----> huile d'olive vierge : null 
 ----> fleur de sel  : null 
@@ -270,7 +270,7 @@
 ----> romarin (frais de préférence) : null 
 ----> beurre par pommes de terre : 1 cuillère à café
 --> Plat-principal
---->Boulettes-de-poulet-au-citron
+----------->Boulettes-de-poulet-au-citron
 ----> citron  : 1 
 ----> moutarde  : null 
 ----> poivre  : null 
@@ -281,13 +281,13 @@
 ----> panure  : 4 cuillère à soupe
 ----> yaourt nature (non sucré de préférence) : 1 
 --> Dessert
---->Glacé-de-bananes
+----------->Glacé-de-bananes
 ----> banane  : 4 
 ----> citron (prendre le jus d'une moitié) : 1 
 ----> sirop de sucre de canne  : 25 cl
 ----> crème fraîche  : 25 cl
 --> Dessert
---->Compote-de-pommes-et-de-poires-meringuée
+----------->Compote-de-pommes-et-de-poires-meringuée
 ----> sucre glace  : 4 cuillère
 ----> amandes effilées : 1 cuillère à soupe
 ----> blanc d'oeuf  : 4 
@@ -298,7 +298,7 @@
 ----> beurre  : 40 g
 -> Jeudi-Soir
 --> Entrée
---->Quiche-au-chou-fleur-et-aux-champignons
+----------->Quiche-au-chou-fleur-et-aux-champignons
 ----> champignon de Paris  : 200 g
 ----> lardons fumés  : 100 g
 ----> parmesan  : 100 g
@@ -310,7 +310,7 @@
 ----> crème fraîche  : 10 cl
 ----> pâte brisée  : 1 
 --> Entrée
---->Crème-de-châtaignes-au-fenouil
+----------->Crème-de-châtaignes-au-fenouil
 ----> cube de bouillon de volaille : 1 
 ----> poivre  : null 
 ----> sel  : null 
@@ -321,7 +321,7 @@
 ----> beurre  : 20 g
 ----> chocolat amer  : 2 carré
 --> Plat-principal
---->Tajine-traditionnel-(Maroc)
+----------->Tajine-traditionnel-(Maroc)
 ----> pomme de terre  : 4 
 ----> courgette  : 0.5 
 ----> tomate  : 1 
@@ -337,7 +337,7 @@
 ----> oignon  : 1 
 ----> olive verte  : null 
 --> Plat-principal
---->Thon-grillé-marinade-méditerranéenne
+----------->Thon-grillé-marinade-méditerranéenne
 ----> huile d'olive  : null 
 ----> citron  : null 
 ----> cumin  : null 
@@ -348,7 +348,7 @@
 ----> coriandre ou safran : null 
 ----> thon rouge  : 4 belle tranche
 --> Dessert
---->Mugcake-au-chocolat-(gâteau-individuel-cuit-au-micro-ondes)
+----------->Mugcake-au-chocolat-(gâteau-individuel-cuit-au-micro-ondes)
 ----> chocolat  : 50 g
 ----> sucre  : 20 g
 ----> lait  : 2 cl
@@ -357,7 +357,7 @@
 ----> beurre (suivant la texture désirée) : 15 g
 ----> oeuf  : 1 
 --> Dessert
---->Pommes-au-four-cévenoles
+----------->Pommes-au-four-cévenoles
 ----> pomme à cuire : 4 
 ----> sucre en poudre  : null 
 ----> crème de marron  : 125 g
@@ -365,7 +365,7 @@
 ----> beurre  : null 
 -> Vendredi-Midi
 --> Entrée
---->Salade-d'automne-aux-champignons-sautés
+----------->Salade-d'automne-aux-champignons-sautés
 ----> champignon des prés, ou à défaut des pleurotes : null tasse
 ----> ail écrasées : null gousse
 ----> tomates concassées  : null tasse
@@ -382,7 +382,7 @@
 ----> beurre  : 30 g
 ----> crème fraîche  : null cuillère
 --> Entrée
---->Soupe-de-racines
+----------->Soupe-de-racines
 ----> carotte  : 6 
 ----> céleri rave : 0.5 boule
 ----> lait  : null 
@@ -390,7 +390,7 @@
 ----> rutabaga  : 1 
 ----> panais (500 g) : 1 
 --> Plat-principal
---->Romariottes-(ailerons-de-poulet-panés-ail-persil)
+----------->Romariottes-(ailerons-de-poulet-panés-ail-persil)
 ----> farine  : null 
 ----> persil  : 1 botte
 ----> ail  : 4 gousse
@@ -399,18 +399,18 @@
 ----> poulet  : 20 
 ----> beurre  : null 
 --> Plat-principal
---->Escalopes-de-céleri
+----------->Escalopes-de-céleri
 ----> céleri rave : 2 boule
 ----> huile de cuisson ou margarine : null 
 ----> poivre  : null 
 ----> sel  : null 
 ----> panure  1 à 2 oeufs, farine et chapelure : null 
 --> Dessert
---->Meringues
+----------->Meringues
 ----> sucre semoule  : 250 g
 ----> blanc d'oeuf  : 4 
 --> Dessert
---->Poire-panée-facon-poire-belle-Hélène
+----------->Poire-panée-facon-poire-belle-Hélène
 ----> chocolat  : 150 g
 ----> poudre d'amandes  : 100 g
 ----> amandes effilées : 20 g
@@ -422,7 +422,7 @@
 ----> oeuf  : 2 
 -> Vendredi-Soir
 --> Entrée
---->Soupe-rustique-au-potimarron
+----------->Soupe-rustique-au-potimarron
 ----> pomme de terre  : 3 
 ----> lardons fumés  : 100 g
 ----> cube de bouillon de viande : 1 
@@ -434,7 +434,7 @@
 ----> oignon  : 1 
 ----> marrons  : null 
 --> Entrée
---->Samoussas-(spécialité-de-l'océan-indien)
+----------->Samoussas-(spécialité-de-l'océan-indien)
 ----> ail  : 3 gousse
 ----> poivron  : 1 
 ----> gingembre  : 1 morceau
@@ -445,7 +445,7 @@
 ----> porc  : 200 g
 ----> brick  : 20 feuille
 --> Plat-principal
---->Tartines-de-chèvre,-jambon-fumé-et-miel
+----------->Tartines-de-chèvre,-jambon-fumé-et-miel
 ----> miel  : null 
 ----> cerneau de noix concassés : null 
 ----> bûche de chèvre  : 1 
@@ -453,14 +453,14 @@
 ----> huile de noix  : null 
 ----> jambon fumé  : 2 tranche
 --> Plat-principal
---->Brick-jambon-banane
+----------->Brick-jambon-banane
 ----> banane  : 4 
 ----> jambon  : 8 tranche
 ----> brick  : 2 paquet
 ----> gouda sous vide : 16 tranche
 ----> beurre fondu : null 
 --> Dessert
---->Tarte-crumble-aux-poires-et-aux-pépites-de-chocolat
+----------->Tarte-crumble-aux-poires-et-aux-pépites-de-chocolat
 ----> chocolat noir (type Nestlé dessert corsé) : 200 g
 ----> pâte brisée  : 1 
 ----> farine  : 250 g
@@ -469,20 +469,20 @@
 ----> beurre  : 150 g
 ----> mélange 4 épices  : 2 cuillère à café
 --> Dessert
---->Figues-rôties-à-la-vanille
+----------->Figues-rôties-à-la-vanille
 ----> sucre  : 1 kg
 ----> vanille  : 1 gousse
 ----> figue fraîches : 2.5 kg
 -> Samedi-Midi
 --> Entrée
---->Salade-iceberg-à-la-feta-et-aux-olives
+----------->Salade-iceberg-à-la-feta-et-aux-olives
 ----> huile d'olive  : 3 cuillère à soupe
 ----> feta  : 100 g
 ----> olives noires  : 100 g
 ----> salade iceberg : 1 
 ----> vinaigre de xérès ou de vin : 1 cuillère à soupe
 --> Entrée
---->Soupe-au-potiron-et-au-curry
+----------->Soupe-au-potiron-et-au-curry
 ----> lait  : 1 verre
 ----> curry  : null 
 ----> poivre  : null 
@@ -491,7 +491,7 @@
 ----> potiron  : 0.25 
 ----> crème épaisse  : null 
 --> Plat-principal
---->Burger-breton-aux-galettes-de-sarrasin
+----------->Burger-breton-aux-galettes-de-sarrasin
 ----> farine de blé  : 125 g
 ----> lait  : 35 cl
 ----> eau froide : 35 cl
@@ -505,7 +505,7 @@
 ----> concombre  : 0.5 
 ----> mâche  : null feuille
 --> Plat-principal
---->Tarte-tatin-froide-aux-artichauts-et-parmesan
+----------->Tarte-tatin-froide-aux-artichauts-et-parmesan
 ----> jambon  : 3 tranche
 ----> parmesan râpé  : 100 g
 ----> pâte feuilletée  : 1 
@@ -517,12 +517,12 @@
 ----> emmental râpé : 100 g
 ----> beurre  : 50 g
 --> Dessert
---->Gâteau-de-crêpe-à-la-compote-de-pommes
+----------->Gâteau-de-crêpe-à-la-compote-de-pommes
 ----> pomme  : 4 
 ----> cannelle (quantité selon votre goût) : null 
 ----> sucre (facultatif) : null 
 --> Dessert
---->Pommes-au-four-farcies-aux-amandes-et-au-miel
+----------->Pommes-au-four-farcies-aux-amandes-et-au-miel
 ----> pomme (par exemple Royal Gala ou reinette) : 1 
 ----> poudre d'amandes  : 1 cuillère à soupe
 ----> miel  : 1 cuillère à café
@@ -531,7 +531,7 @@
 ----> beurre  ou margarine : 1 noisette
 -> Samedi-Soir
 --> Entrée
---->Terrine-de-poisson-au-basilic
+----------->Terrine-de-poisson-au-basilic
 ----> concentré de tomates  : 1 petite boîte
 ----> basilic ciselé (pas haché, ça casse l'arôme !) : 1 petit bouquet
 ----> poivre  : null 
@@ -541,17 +541,17 @@
 ----> crème fraîche  : 2 cuillère à soupe
 ----> oeuf battus : 2 
 --> Amuse-gueule
---->Toasts-de-fromagede-chèvre-sur-pain-d'épice
+----------->Toasts-de-fromagede-chèvre-sur-pain-d'épice
 ----> pain d'épices (très fines) : 8 tranche
 ----> fromage de chèvre  : 1 bûchette
 --> Plat-principal
---->Pizza-à-la-poêle-express
+----------->Pizza-à-la-poêle-express
 ----> pain de mie  : 6 tranche
 ----> sauce salsa mexicaine medium ou hot : null 
 ----> origan  : null 
 ----> gruyère râpé  : 1 poignée
 --> Plat-principal
---->Bruschetta
+----------->Bruschetta
 ----> tomate bien mûres : 2 
 ----> aubergine  : 1 
 ----> ail  : 1 gousse
@@ -563,12 +563,12 @@
 ----> pain  : 4 tranche
 ----> chèvre frais  : 8 
 --> Dessert
---->Compote-de-coings-facile
+----------->Compote-de-coings-facile
 ----> sucre cristal : 150 g
 ----> citron  : 2 
 ----> coing  : 1 kg
 --> Confiserie
---->Macarons-noisettes-citron
+----------->Macarons-noisettes-citron
 ----> citron  : 2 
 ----> sucre en poudre  : 100 g
 ----> maïzena  : 1 cuillère à soupe
@@ -580,7 +580,7 @@
 ----> poudre de noisette  : 60 g
 -> Dimanche-Midi
 --> Entrée
---->Huîtres-chaudes-au-curry
+----------->Huîtres-chaudes-au-curry
 ----> curry  : 0.5 cuillère à café
 ----> poireau  : 1 
 ----> vin blanc sec  : 0.5 verre
@@ -592,7 +592,7 @@
 ----> crème épaisse  : 1 cuillère à soupe
 ----> jaune d'oeuf  : 3 
 --> Entrée
---->Blinis-de-patate-douce
+----------->Blinis-de-patate-douce
 ----> farine  : 50 g
 ----> lait  : 15 cl
 ----> poivre  : null 
@@ -606,18 +606,18 @@
 ----> saumon fumé d'Écosse (ou truite fumée) : 6 tranche
 ----> oeuf de truite : 3 cuillère à soupe
 --> Plat-principal
---->Yakitori-boeuf-au-fromage-rapide
+----------->Yakitori-boeuf-au-fromage-rapide
 ----> carpaccio de boeuf non mariné : 400 g
 ----> maasdam  : 400 g
 ----> sauce Yakitori toute prête (au rayon produits du monde au supermarché) : null 
 --> Plat-principal
---->Poivrons-farcis
+----------->Poivrons-farcis
 ----> poivron  : 4 
 ----> merguez  : 10 
 ----> tomate  : 2 
 ----> oignon  : 1 
 --> Dessert
---->Gratiné-de-bananes
+----------->Gratiné-de-bananes
 ----> vanille  : 0.5 gousse
 ----> banane  : 4 
 ----> rhum ambré : 18 cl
@@ -627,13 +627,13 @@
 ----> sirop de sucre de canne  : 10 cl
 ----> jus d'orange  : 2 cuillère à soupe
 --> Dessert
---->Compote-pomme-banane
+----------->Compote-pomme-banane
 ----> pomme golden : 2 
 ----> banane  : 1 
 ----> sucre vanillé  : 3 sachet
 -> Dimanche-Soir
 --> Entrée
---->Salade-d'endives-et-aux-kiwis
+----------->Salade-d'endives-et-aux-kiwis
 ----> huile  : 1 cuillère à café
 ----> moutarde  : 1 cuillère à soupe
 ----> poivre  : null 
@@ -643,7 +643,7 @@
 ----> raisins secs  : 1 poignée
 ----> kiwi  : 2 
 --> Entrée
---->Cake-chèvre,-noix-et-raisins-secs
+----------->Cake-chèvre,-noix-et-raisins-secs
 ----> farine  : 175 g
 ----> huile d'olive  : 2 cuillère à soupe
 ----> levure alsacienne : 5 g
@@ -656,7 +656,7 @@
 ----> comté râpé : 100 g
 ----> fromage de chèvre (type Ste Maure) : 150 g
 --> Plat-principal
---->Courge-spaghetti-en-gratin
+----------->Courge-spaghetti-en-gratin
 ----> carotte  : 1 
 ----> épices  : null 
 ----> courge spaghetti  : 1 
@@ -665,7 +665,7 @@
 ----> beurre  : null 
 ----> gruyère râpé  : null 
 --> Plat-principal
---->Gratin-de-courgettes-au-saumon-fumé
+----------->Gratin-de-courgettes-au-saumon-fumé
 ----> courgette  : 1 kg
 ----> poivre  : null 
 ----> saumon fumé  : 200 g
@@ -673,7 +673,7 @@
 ----> oeuf  : 2 
 ----> gruyère râpé  : null 
 --> Dessert
---->Fondant-chocolat-noix-et-confiture-de-lait
+----------->Fondant-chocolat-noix-et-confiture-de-lait
 ----> cassonade  : 100 g
 ----> sucre en poudre  : 300 g
 ----> cerneau de noix  : 150 g
@@ -691,7 +691,7 @@
 ----> confiture de lait  : 350 g
 ----> café instantané lyophilisé  : 1 dose
 --> Dessert
---->Ramequins-de-crème-au-chocolat
+----------->Ramequins-de-crème-au-chocolat
 ----> chocolat à croquer : 250 g
 ----> maïzena  : 60 g
 ----> eau  : 10 cl
@@ -701,7 +701,7 @@
 ----> beurre  : 60 g
 -> Lundi-Midi
 --> Entrée
---->Carpaccio-de-betteraves-parfumé-à-l'orange
+----------->Carpaccio-de-betteraves-parfumé-à-l'orange
 ----> orange  : 2 
 ----> persil plat : 2 brin
 ----> cumin  : 1 cuillère à café rase
@@ -710,7 +710,7 @@
 ----> sel  : null 
 ----> betterave rouges cuites : 3 
 --> Entrée
---->Petites-mousses-de-saumon-fumé
+----------->Petites-mousses-de-saumon-fumé
 ----> jus de citron  : 1 cuillère à soupe
 ----> muscade  : 1 pincée
 ----> gélatine  : 4 feuille
@@ -722,7 +722,7 @@
 ----> ciboulette ciselée : 2 cuillère à soupe
 ----> blanc d'oeuf  : 1 
 --> Plat-principal
---->Pizza-Normande-
+----------->Pizza-Normande-
 ----> pâte à pizza toute prête (ou voir les bonnes recettes sur ce site) : 1 
 ----> pomme  : 1 
 ----> poivre  : null 
@@ -732,7 +732,7 @@
 ----> crème liquide (allégée si vous voulez) : 15 cl
 ----> oeuf  : 1 
 --> Plat-principal
---->Chili-con-carne-simple
+----------->Chili-con-carne-simple
 ----> lardons  : 200 g
 ----> chorizo  : 1 demi
 ----> ail  : 1 gousse
@@ -748,18 +748,18 @@
 ----> oignon  : 1 
 ----> haricots rouges  : 1 boîte
 --> Dessert
---->Sablés-faciles
+----------->Sablés-faciles
 ----> chocolat pâtissier  : 150 g
 ----> margarine ou beurre : 100 g
 ----> corn flakes  : 100 g
 --> Dessert
---->Macarons-aux-amandes
+----------->Macarons-aux-amandes
 ----> sucre  : 250 g
 ----> amandes  : 250 g
 ----> blanc d'oeuf battus : 2 
 -> Lundi-Soir
 --> Entrée
---->Soupe-aux-7-légumes
+----------->Soupe-aux-7-légumes
 ----> poireau  : 1 
 ----> carotte  : 6 
 ----> céleri  : 1 branche
@@ -772,7 +772,7 @@
 ----> crème fraîche  : 10 cl
 ----> beurre  : null 
 --> Entrée
---->Noix-de-Saint-Jacques-sautées-au-safran
+----------->Noix-de-Saint-Jacques-sautées-au-safran
 ----> safran  : 2 dose
 ----> poivre  : null 
 ----> sel  : null 
@@ -780,38 +780,30 @@
 ----> crème fraîche  : 3 cuillère à soupe
 ----> estragon  : 3 pincée
 --> Accompagnement
---->Riz-moelleux-et-savoureux
+----------->Riz-moelleux-et-savoureux
 ----> bouillon de volaille bien chaud : 60 cl
 ----> riz (Basmati de préférence) : 200 g
 ----> citron ou des légumes en petits dés (voir remarque) : null zeste
 ----> oignon émincé : 1 
 --> Plat-principal
---->Lasagne-légère-à-la-courge
+----------->Lasagne-légère-à-la-courge
 ----> pâtes à lasagne fraîche ou sèche : null 
 ----> courge spaghetti  : 1 
 ----> légumes surgelée type poélée des champs ou mélange de légumes frais : 500 g
 ----> crème végétale  : 250 ml
 ----> gruyère râpé  : 200 g
 --> Dessert
---->Sunday-au-caramel
+----------->Sunday-au-caramel
 ----> sucre  : 100 g
 ----> noisettes concassées et grillées : null 
 ----> crème fraîche liquide  : 120 ml
 ----> beurre salé  : 20 g
 ----> glace vanille  : null 
 --> Dessert
---->Pancakes-aux-noisettes
+----------->Pancakes-aux-noisettes
 ----> farine  : 300 g
 ----> sucre  : 200 g
 ----> noisettes en poudre : 200 g
 ----> levure chimique  : 0.6666667 sachet
 ----> lait  : 40 cl
 ----> oeuf  : 2 
-----> chocolat  : 50 g
-----> crème  : 10 cl
-----> farine  : 100 g
-----> sucre vanillé  : 1 sachet
-----> sucre  : 80 g
-----> jaune d'oeuf  : 1 
-----> beurre à température ambiante : 80 g
-----> poudre de noisette  : 100 g
