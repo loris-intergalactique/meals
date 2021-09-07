@@ -44,7 +44,7 @@ get_ingredients() {
         | grep -E '."props":.*"customServer":(true|false)}' -o \
         | jq -r '.props.pageProps.recipeData.recipe.ingredientGroups[]
             | .items[]
-            | [ "---> " + .name + " " + .complement + " : " + (.ingredientQuantity|tostring) + " " + .unitName]
+            | [ "----> " + .name + " " + .complement + " : " + (.ingredientQuantity|tostring) + " " + .unitName]
             | @csv' \
         | tr -d '"'
 
