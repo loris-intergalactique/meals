@@ -27,7 +27,7 @@ get_weekly_recipes() {
         | sed 's/Confiserie/--> Confiserie/g' \
         | sed 's/Accompagnement/--> Accompagnement/g' \
         | sed 's/Entrée/--> Entrée/g' \
-        | sed -e 's/^\([^- ]\)/--->\1/g'
+        | sed -e 's/^\([^- ]\)/---> \1/g'
 }
 
 get_ingredients() {
@@ -59,4 +59,6 @@ get_weekly_ingredients() {
             done
 }
 
-get_weekly_ingredients
+convert_to_markdown() { sed 's/^->/# /g' | sed 's/^-->/- [ ]/g'; }
+
+get_weekly_ingredients | convert_to_markdown
