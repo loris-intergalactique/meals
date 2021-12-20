@@ -59,6 +59,6 @@ get_weekly_ingredients() {
             done
 }
 
-convert_to_markdown() { sed 's/^->/# /g; s/^-->/- [ ]/g'; }
+convert_to_markdown() { sed 's/^->/# /g; s/^-->/- [ ]/g'| sed 's/^----------->/  - -----------> /g' |sed 's/^---->/  - ---->/g'; }
 
 get_weekly_ingredients | convert_to_markdown
