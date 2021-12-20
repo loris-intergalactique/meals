@@ -20,7 +20,7 @@ jobs:
 
       - name: Meal retrieval
         run: |
-          bash script.sh | tail -n +2 > this_weeks_meal.txt
+          bash script.sh | tail -n +2 > README.md
           
       - name: Git Configuration
         run: |
