@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
 
-#
-# Retrieves Marmiton recipies for the week
-# Don't judge me, I'm just lazy and hungry
-#
-
-
 get_weekly_recipes() {
     curl --silent https://www.marmiton.org/recettes/menu-de-la-semaine.aspx \
         | grep -E "<(h(2|4)|li) " \
