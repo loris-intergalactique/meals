@@ -1,36 +1,151 @@
 # Magic Meals
 ##  Dimanche-Midi
+- [ ] Amuse-gueule
+  - -----------> Croquettes-de-mozzarella
+  - ----> tomates cerise (présentation) : 300 g
+  - ----> farine  : 50 g
+  - ----> huile d'arachide  : oui
+  - ----> mozzarella  : 300 g
+  - ----> chapelure  : 100 g
+  - ----> oeuf  : 2 
+- [ ] Amuse-gueule
+  - -----------> Toasts-d'endives
+  - ----> endive à longues feuilles : 2 
+  - ----> fromage ail et fines herbes  : oui
+  - ----> pâté de campagne  : oui
+  - ----> pâté de foie  : oui
+  - ----> oeuf durs : oui
+  - ----> mayonnaise  : oui
 - [ ] Plat-principal
-  - -----------> Tartare-de-melon
-  - ----> melon  : 1 
-  - ----> huile d'olive  : oui
-  - ----> sel  : oui
+  - -----------> Fine-tartelette-de-pommes-de-terre-au-homard-rôti
+  - ----> pomme de terre  : 4 
+  - ----> huile d'olive  : 1 
   - ----> poivre  : oui
-  - ----> concombre  : 1 demi
-  - ----> feta  : 1 bloc
-  - ----> menthe  : 1 brin
-  - ----> jambon de Parme  : 4 
+  - ----> sel  : oui
+  - ----> bouquet garni  : 1 
+  - ----> beurre  : 60 g
+  - ----> gros sel  : 2 pincée
+  - ----> homard  : 1 
+  - ----> échalote ciselée : 1 
+- [ ] Plat-principal
+  - -----------> Homard-grillé-à-la-mangue
+  - ----> coriandre fraîche : 10 g
+  - ----> sucre de canne  : 3 cuillère à soupe
+  - ----> beurre doux  : 10 g
+  - ----> riz (basmati ou thaï conseillés) : 4 portion
+  - ----> mangue moyennement mûres : 4 
+  - ----> homard vivants (compter 1 lbs à 1.5 lbs par personne - 450 à 750g) : 4 
+- [ ] Dessert
+  - -----------> Gâteau-de-tiramisu-au-caramel
+  - ----> biscuits à la cuillère  : 20 
+  - ----> sucre  : 75 g
+  - ----> gélatine  : 3 feuille
+  - ----> chocolat en poudre non sucré : oui
+  - ----> mascarpone  : 750 g
+  - ----> oeuf  : 6 
+  - ----> sucre  : 125 g
+  - ----> beurre  : 10 g
+  - ----> crème  : 25 cl
+  - ----> sucre  : 60 g
+  - ----> farine  : 60 g
+  - ----> oeuf  : 2 
+- [ ] Dessert
+  - -----------> Salade-aux-poires-dattes-et-noix
+  - ----> noix  : 50 g
+  - ----> jus de citron  : 1 cuillère à soupe
+  - ----> sucre  : 0.25 cuillère à café
+  - ----> poire  : 8 
+  - ----> datte  : 12 
+##  Dimanche-Soir
 - [ ] Entrée
-  - -----------> Tartare-d'avocat-au-crabe
-  - ----> citron  : 1 
+  - -----------> Poisson-cru-mariné-à-la-menthe
+  - ----> citron  : oui
+  - ----> huile d'olive  : 20 cl
+  - ----> truite  : 400 g
+  - ----> saumon ou poisson à chair blanche (préférez la truite) : oui
+  - ----> menthe fraîche : 10 feuille
+- [ ] Entrée
+  - -----------> Langoustines-flambées-à-la-vanille-(Martinique)
+  - ----> vanille fraîche (sous vide) : 1 gousse
+  - ----> huile d'olive  : 1 cuillère à soupe
+  - ----> poireau  : 3 
+  - ----> rhum  : 2 cuillère à soupe
   - ----> poivre  : oui
   - ----> sel  : oui
-  - ----> crabe  : 170 g
-  - ----> avocat  : 1 
-  - ----> mayonnaise  : 2 cuillère à soupe
+  - ----> langoustine (24 langoustines) : 800 g
 - [ ] Plat-principal
-  - -----------> Pizza-tressée
-  - ----> champignon de Paris  : 4 
-  - ----> olives  : 4 
-  - ----> basilic  : oui
-  - ----> origan  : 1 cuillère à café
+  - -----------> Risotto-aux-champignons-(recette-italienne-du-risotto-alla-fungaiola)
+  - ----> riz rond  : 200 g
+  - ----> champignon (cèpes, girolles, morilles...) ou 250 g de champignons de Paris frais : 300 g
+  - ----> crème fraîche  : 50 cl
+  - ----> oignon  : 0.5 
+  - ----> ail  : 1 gousse
+  - ----> persil  : 1 brin
+  - ----> sel  : oui
+  - ----> poivre  : oui
+  - ----> parmesan râpé  : 150 g
+  - ----> mascarpone  : 3 cuillère à soupe
+- [ ] Entrée
+  - -----------> Salade-grecque
+  - ----> tomate  : 2 
+  - ----> poivron vert et 1 rouge, épépinés et coupés en fines tranches : 1 
+  - ----> oignon coupé en fines tranches : 1 
+  - ----> citron  : oui
+  - ----> origan séché : 1 cuillère à café
   - ----> poivre  : oui
   - ----> sel  : oui
+  - ----> concombre découpé en dés : 0.5 
+  - ----> feta en cube : 150 g
+  - ----> olives noires (facultatif) : 50 g
+- [ ] Dessert
+  - -----------> Muffins-aux-noisettes
+  - ----> chocolat noir dessert : 165 g
+  - ----> beurre  : 130 g
+  - ----> sucre en poudre  : 130 g
+  - ----> amandes en poudre  : 65 g
+  - ----> noisettes concassées : 65 g
+  - ----> oeuf entiers : 3 
+- [ ] Dessert
+  - -----------> Tarte-poire-chocolat
+  - ----> chocolat spécial dessert : 100 g
+  - ----> beurre tendre  : 100 g
+  - ----> amandes en poudre  : 100 g
+  - ----> sucre en poudre  : 125 g
+  - ----> poire conférences bien mûres : 3 
+  - ----> pâte feuilletée  : 1 
+  - ----> oeuf  : 2 
+##  Lundi-Midi
+- [ ] Entrée
+  - -----------> Soupe-froide-de-courgettes-à-la-menthe-et-chèvre-frais
+  - ----> courgette (de préférence petites et fermes) : 1.5 kg
+  - ----> huile d'olive  : 2 cuillère à soupe
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> chèvre frais (type chavroux ou à la coupe) : 300 g
+  - ----> menthe fraîche (idéalement petite menthe proivrée) : 1 bouquet
+- [ ] Entrée
+  - -----------> Tartare-tomates-et-avocats
   - ----> huile d'olive  : oui
-  - ----> pâte à pizza carrée (ou rectangle) : 1 
-  - ----> coulis de tomate  : 20 cl
-  - ----> mozzarella  : 1 boule
-  - ----> jambon blanc  : 2 tranche
+  - ----> basilic  : oui
+  - ----> tomate rondes : 6 
+  - ----> pignons de pin : 3 cuillère à soupe
+  - ----> Parmesan  : oui
+  - ----> huile d'olive  : oui
+  - ----> vinaigre balsamique  : oui
+  - ----> citron  : 0.5 
+  - ----> avocat  : 2 
+  - ----> oignon blanc  : 1 
+- [ ] Plat-principal
+  - -----------> Lasagnes-aux-courgettes-et-au-chèvre
+  - ----> courgette (ou 3 petites) : 2 
+  - ----> lait  : 25 cl
+  - ----> maïzena  : 1 cuillère à soupe
+  - ----> lasagnes  : 5 plaque
+  - ----> gruyère râpé  : 30 g
+  - ----> sel  : oui
+  - ----> poivre  : oui
+  - ----> muscade  : oui
+  - ----> fromage de chèvre frais : 5 
 - [ ] Accompagnement
   - -----------> Tian-provençal
   - ----> courgette  : 1 kg
@@ -41,858 +156,666 @@
   - ----> huile d'olive  : oui
   - ----> sucre  : oui
   - ----> thym  : oui
-- [ ] Confiserie
-  - -----------> Nounours-chocolat-guimauve
-  - ----> chocolat  : 200 g
-  - ----> chamallow  : 50 g
 - [ ] Dessert
-  - -----------> Tarte-aux-groseilles
-  - ----> sucre  : 4 cuillère à soupe
-  - ----> crème fraîche  : 3 cuillère à soupe
-  - ----> sucre vanillé  : 7.5 g
-  - ----> lait  : 4 cuillère à soupe
-  - ----> farine  : 1 cuillère à soupe
-  - ----> oeuf  : 3 
-  - ----> sucre  : 5 cuillère à soupe
-  - ----> armagnac  : 1 cuillère à soupe
-  - ----> pâte brisée (ou sablée) : 1 
-  - ----> groseilles fraîches : 500 g
-##  Dimanche-Soir
-- [ ] Entrée
-  - -----------> Samoussas-(spécialité-de-l'océan-indien)
-  - ----> oignon  : 1 
-  - ----> ail  : 3 gousse
-  - ----> poivron  : 1 
-  - ----> gingembre  : 1 morceau
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> cumin  : oui
-  - ----> porc  : 200 g
-  - ----> brick  : 20 feuille
-- [ ] Amuse-gueule
-  - -----------> Toasts-de-fromagede-chèvre-sur-pain-d'épice
-  - ----> pain d'épices (très fines) : 8 tranche
-  - ----> fromage de chèvre  : 1 bûchette
-- [ ] Plat-principal
-  - -----------> Petits-flans-aux-légumes-du-soleil
-  - ----> tomate  : 2 
-  - ----> courgette  : 1 
-  - ----> gruyère râpé  : 60 g
-  - ----> crème fraîche  : 4 cuillère à soupe
-  - ----> persil haché : oui
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> échalote  : 2 
-  - ----> oeuf  : 4 
-- [ ] Entrée
-  - -----------> Salade-de-blé-Tex-Mex
-  - ----> huile d'olive  : 3 cuillère à soupe
-  - ----> moutarde  : 1 cuillère à café
-  - ----> vinaigre  : 1 cuillère à soupe
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> haricots rouges égouttés : 250 g
-  - ----> poivron rouge  : 1 
-  - ----> basilic  : oui
-  - ----> tomate  : 1 cuillère à soupe
-  - ----> épices Tex-Mex : 1 cuillère à soupe
-  - ----> huile d'olive  : oui
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> blé cuit : 500 g
-  - ----> maïs égoutté : 285 g
-  - ----> concombre  : 1 
-  - ----> ciboulette  : oui
-  - ----> oignon nouveau  : 1 
-- [ ] Dessert
-  - -----------> Glace-vanille-
-  - ----> sucre  : 6 cuillère à soupe
-  - ----> vanille  : 1 gousse
-  - ----> crème fraîche liquide  : 25 cl
-  - ----> oeuf  : 2 
-- [ ] Dessert
-  - -----------> Cake-fourré-à-la-pâte-à-tartiner
-  - ----> pâte à tartiner  : 180 g
-  - ----> noisettes entières : 30 
-  - ----> brioche  : 9 tranche
-  - ----> poudre de noisette  : 20 g
-  - ----> oeuf  : 3 
-  - ----> crème liquide allégée : 20 cl
-##  Lundi-Midi
-- [ ] Entrée
-  - -----------> Salade-Caprese
-  - ----> tomate type tomates anciennes ou coeur de boeuf : 4 
-  - ----> huile d'olive  : 4 cuillère à soupe
-  - ----> vinaigre balsamique  : 2 cuillère à soupe
-  - ----> fleur de sel  : oui
-  - ----> poivre  : oui
-  - ----> mozzarella di buffala  : 1 
-  - ----> basilic frais ciselée : 10 feuille
-- [ ] Entrée
-  - -----------> Salade-de-pastèque-et-feta
-  - ----> huile d'olive  : 1 cuillère à soupe
-  - ----> pastèque  : 2 kg
-  - ----> feta  : 100 g
-  - ----> menthe fraîche ciselée : 1 cuillère à soupe
-  - ----> olives noires (niçoises) : 100 g
-- [ ] Plat-principal
-  - -----------> Tarte-Tatin-aux-oignons-rouges
-  - ----> pâte brisée  : 250 g
-  - ----> vinaigre balsamique  : 2 cuillère
-  - ----> beurre  : 25 g
-  - ----> huile d'olive  : 1 cuillère à soupe
-  - ----> thym  : 25 g
-  - ----> sésame  : oui
-  - ----> oignon rouge  : 1.5 kg
-  - ----> sucre brun ou cassonade : 1 cuillère à soupe
-- [ ] Plat-principal
-  - -----------> Quiche-façon-croque-monsieur
-  - ----> carotte  : 2 
-  - ----> sel  : 1 pincée
-  - ----> poivre  : 1 pincée
-  - ----> brocoli  : 2 
-  - ----> chèvre (plutôt sec) : 100 g
-  - ----> oeuf  : 3 
-  - ----> crème liquide  : 20 cl
-  - ----> gruyère râpée : 1 poignée
-- [ ] Dessert
-  - -----------> Mousse-de-mascarpone-aux-pêches
-  - ----> sucre glace  : 50 g
-  - ----> mascarpone  : 250 g
-  - ----> blanc d'oeuf  : 3 
-  - ----> fruits rouges (fraises, framboises, groseilles, myrtilles...) : 800 g
-- [ ] Dessert
-  - -----------> Mon-cheesecake-préféré
-  - ----> sucre glace  : 3 cuillère à soupe
-  - ----> jus de citron  : 1 cuillère à café
-  - ----> framboises (très bon avec des congelées) : 300 g
-  - ----> beurre  : 60 g
-  - ----> cannelle en poudre : 4 pincée
-  - ----> sucre vanillé  : 1 sachet
-  - ----> beurre  pour le moulle : 1 noisette
-  - ----> petit beurre  : 200 g
-  - ----> fromage blanc  : 450 g
-  - ----> crème fraîche  : 30 cl
-  - ----> sucre en poudre  : 70 g
-  - ----> sucre vanillé  : 1 sachet
-  - ----> sel  : 1 pincée
-  - ----> fécule  : 1 cuillère à soupe
-  - ----> oeuf  : 3 
-##  Lundi-Soir
-- [ ] Plat-principal
-  - -----------> Gaufres-salées-au-pesto
-  - ----> lait  : 75 cl
+  - -----------> Cookies-pépites-aux-flocons-d'avoine
+  - ----> flocons d'avoine  : 120 g
+  - ----> farine  : 240 g
   - ----> levure  : 1 sachet
-  - ----> farine  : 450 g
-  - ----> pesto  : 3 cuillère à café
-  - ----> oeuf  : 3 
+  - ----> sucre vanillé  : 1 sachet
+  - ----> chocolat  : 120 g
+  - ----> sucre roux  : 150 g
+  - ----> beurre tendre  : 75 g
+  - ----> oeuf  : 2 
+  - ----> margarine  : 75 g
+- [ ] Confiserie
+  - -----------> Sucettes-au-chocolat
+  - ----> chocolat noir (80% de cacao) : 100 g
+  - ----> chocolat au lait  : 100 g
+  - ----> chocolat blanc  : 100 g
+  - ----> Smarties® Mini  : oui
+##  Lundi-Soir
+- [ ] Amuse-gueule
+  - -----------> Roulé-apéritif-tricolore-au-fromage
+  - ----> fromage râpé  : 30 g
+  - ----> farine  : 70 g
+  - ----> crème fraîche  : 3 cuillère à soupe
+  - ----> paprika  : 2 cuillère à soupe
+  - ----> huile  : 6 cuillère à soupe
+  - ----> levure  : 1 sachet
+  - ----> fromage frais (type philadelphia) : 250 g
+  - ----> ricotta  : 80 g
+  - ----> épinards  : 30 g
+  - ----> oeuf  : 6 
 - [ ] Entrée
-  - -----------> Soufflé-au-fromage
-  - ----> emmental ou gruyère râpé : 150 g
-  - ----> beurre  : 60 g
-  - ----> farine  : 60 g
-  - ----> lait  : 40 cl
-  - ----> muscade  : oui
-  - ----> oeuf ou 5 moyens : 4 
+  - -----------> Cake-à-la-feta-et-tomates-cerise
+  - ----> huile (celle de la feta, avec les herbes) : 8 cl
+  - ----> vin blanc sec  : 8 cl
+  - ----> tomates cerise  : 250 g
+  - ----> gruyère râpé  : 150 g
+  - ----> levure chimique  : 1 sachet
+  - ----> graines de courge (facultatif) : 25 g
+  - ----> herbes de Provence  : oui
+  - ----> farine  : 250 g
+  - ----> oeuf  : 4 
+  - ----> feta égouttée : 200 g
 - [ ] Entrée
-  - -----------> Baciami-sulla-bucca-(aubergines-farcies-aux-pâtes)-(Italie)
-  - ----> aubergine rondes : 2 
-  - ----> sauce tomate  : 300 g
-  - ----> pâtes (bucatini ou spaghetti) : 100 g
-  - ----> fromage râpé (à volonté) : 100 g
-  - ----> huile pour frire : oui
-  - ----> mozzarella (soit 1 boule) : 150 g
+  - -----------> Tarte-aux-aubergines,-tomates-et-parmesan
+  - ----> aubergine grillées (vous pouvez les acheter surgelées) : 300 g
+  - ----> tomate coupées en dés (c'est meilleur sans les pépins!) : 3 
+  - ----> parmesan râpé  : oui
+  - ----> huile d'olive  : oui
+  - ----> mozzarella coupée en dés : 1 boule
+  - ----> farine  : 150 g
+  - ----> beurre  : 75 g
+  - ----> huile d'olive  : 1 trait
+  - ----> fond de verre d'eau, sel : 1 
 - [ ] Plat-principal
-  - -----------> Couscous-végétarien-facile
-  - ----> pois chiches  : 1 petite boîte
-  - ----> carotte  : 4 
-  - ----> tomate  : 4 
-  - ----> courgette  : 2 
-  - ----> oignon  : 2 
-  - ----> ail  : 2 gousse
-  - ----> huile d'olive  : 2 cuillère à soupe
-  - ----> curcuma  : 1.5 cuillère à café
-  - ----> graines de coriandre  : 2 cuillère à café
-  - ----> poivre  : oui
+  - -----------> Burger-végétarien-au-halloumi,-avocat-et-roquette
+  - ----> ail  : 1 gousse
+  - ----> jus de citron  : 1 trait
   - ----> sel  : oui
-  - ----> semoule de couscous grain moyen : 2 verre
-  - ----> navet  : 4 
-  - ----> margarine végétale ou de beurre : 100 g
+  - ----> poivre  : oui
+  - ----> pain pour hamburger  : 4 
+  - ----> Halloumi  : 400 g
+  - ----> avocat  : 1 
+  - ----> roquette  : 150 g
+  - ----> oignon rouge  : 1 
+  - ----> yaourt à la grecque  : 1 pot
+  - ----> piment d'Espelette  : 1 pincée
+- [ ] Confiserie
+  - -----------> Camembert-farci-aux-noix
+  - ----> noix  : 12 
+  - ----> sirop d'érable  : oui
+  - ----> beurre  : 1 noix
+  - ----> camembert  : 1 
+  - ----> poire  : 1 
+  - ----> crème épaisse  : 1 cuillère à soupe
 - [ ] Dessert
-  - -----------> Clafoutisaux-abricots,-amandes-et-romarin
-  - ----> lait  : 25 cl
-  - ----> maïzena  : 60 g
-  - ----> sucre vanillé  : 2 sachet
-  - ----> amandes en poudre  : 80 g
-  - ----> sucre semoule  : 100 g
-  - ----> abricot  : 400 g
-  - ----> romarin  : 1 branche
-  - ----> crème fraîche liquide allégée : 25 cl
-  - ----> oeuf entiers + 2 jaunes : 2 
-- [ ] Dessert
-  - -----------> Riz-au-lait-facile
-  - ----> riz rond  : 250 g
-  - ----> sucre  : 20 g
-  - ----> vanille fraîche : 1 gousse
-  - ----> cannelle  : oui
-  - ----> lait concentré sucré  : 1 boîte
-  - ----> lait concentré non sucré  : 1 boîte
-  - ----> citron vert  : 1 zeste
+  - -----------> Tarte-aux-noix-et-au-miel
+  - ----> pomme golden : 3 
+  - ----> noix  : 150 g
+  - ----> cerneau de noix  : 40 demi
+  - ----> sucre  : 50 g
+  - ----> miel  : 3 cuillère à soupe
+  - ----> pâte à tarte sucrée maison ou du commerce : 1 
+  - ----> oeuf  : 3 
+  - ----> crème liquide  : 25 cl
 ##  Mardi-Midi
 - [ ] Entrée
-  - -----------> L'-Or-dur-du-Père-Noël-(-foie-gras-sur-pain-d'épice,-purée...
-  - ----> pain d'épices  : 4 tranche
-  - ----> oignon  : 2 
-  - ----> miel liquide  : 1 cuillère à soupe
-  - ----> cognac  : 1 verre
-  - ----> beurre  : oui
+  - -----------> Galettes-de-poireaux
+  - ----> poireau (240 g) : 2 
+  - ----> oignon  : 3 
+  - ----> farine  : 70 g
+  - ----> fromage blanc à 0% : 100 g
+  - ----> emmental râpé : 30 g
+  - ----> levure chimique  : 0.5 sachet
   - ----> poivre  : oui
-  - ----> vinaigre à 8°C : 1 cuillère à soupe
-  - ----> Foie gras  : 4 tranche
-  - ----> datte d’un sachet de dattes sucrées (confites) : 4 
-  - ----> beurre salé  : oui
+  - ----> sel  : oui
+  - ----> oeuf  : 3 
+  - ----> beurre allégé  : 2 cuillère à café
 - [ ] Entrée
-  - -----------> Salade-de-Boeuf-Piquante-Thaï
-  - ----> citronnelle  : 4 
-  - ----> oignon  : 4 
-  - ----> oignon  : 1 
-  - ----> galanga (un morceau de +/- 4 cm) : 1 
-  - ----> coriandre fraîche : oui
-  - ----> boeuf chateaubriand (idéalement en steack de 1cm d'épaisseur) : 400 g
-  - ----> petit piment thaï : 2 
-  - ----> poisson  : 4 cuillère à soupe
-  - ----> citron vert  : oui
-  - ----> menthe fraîche : oui
-- [ ] Plat-principal
-  - -----------> Poularde-aux-morilles-au-jus-de-truffes
-  - ----> truffe  : 1 pot
-  - ----> huile d'olive  : oui
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> vin blanc sec  : 0.5 bouteille
-  - ----> eau  : 1 verre
-  - ----> farine ou autre liant : oui
-  - ----> poularde  : 1 
-  - ----> morilles déshydratées : 1 pot
-  - ----> crème liquide  : 0.25 l
-- [ ] Plat-principal
-  - -----------> Maki-de-choucroute
-  - ----> pomme de terre à chair ferme : 3 
-  - ----> oignon  : 1 
-  - ----> beurre  : 40 g
-  - ----> vin blanc sec  : 10 cl
+  - -----------> Le-foie-gras-maison-facile
   - ----> sel  : oui
   - ----> poivre  : oui
-  - ----> choucroute cuite : 200 g
-  - ----> saucisse de Francfort  : 1 
-  - ----> poitrine fumée  : 3 fine tranche
+  - ----> épices ou alcool au choix : oui
+  - ----> Foie gras cru (achetez-le de préférence surgelé vous aurez la certitude qu'il est très frais) : 1 
+- [ ] Plat-principal
+  - -----------> Gratin-de-potiron-et-d'oignons-au-comté
+  - ----> oignon  : 250 g
+  - ----> comté  : 70 g
+  - ----> ail  : 1 gousse
+  - ----> huile d'olive  : 4 cuillère à soupe
+  - ----> beurre  : 20 g
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> potiron  : 1 kg
+- [ ] Plat-principal
+  - -----------> Homards-à-la-russe
+  - ----> pomme de terre  : 4 
+  - ----> beurre  : 200 g
+  - ----> safran en filaments : 2 pincée
+  - ----> paprika  : 1 pincée
+  - ----> vodka  : 2 cl
+  - ----> citron  : 1 
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> homard (environ 800 g chaque) : 2 
+  - ----> crème fleurette entière : 100 g
+  - ----> caviar  : 80 g
+  - ----> fumet de poisson : 20 cl
 - [ ] Dessert
-  - -----------> Gratin-de-raisins
-  - ----> sucre  : 80 g
-  - ----> cannelle  : 1 cuillère à café
-  - ----> eau de fleur d'oranger  : 1 cuillère à soupe
-  - ----> raisin  : 600 g
-  - ----> oeuf + 2 jaunes d'oeuf : 2 
+  - -----------> Brochettes-de-raisins-caramélisées
+  - ----> sucre  : 20 morceau
+  - ----> jus de citron  : oui
+  - ----> raisin noir  : 1 
+  - ----> raisin blanc  : 1 
 - [ ] Dessert
-  - -----------> Tresse-façon-croissant-aux-amandes
-  - ----> sucre glace  : 50 g
-  - ----> lait  : 1 cuillère à soupe
-  - ----> amandes amère : oui
-  - ----> amandes effilées  : 50 g
-  - ----> beurre  : 80 g
-  - ----> sucre  : 65 g
-  - ----> sel  : 1 pincée
-  - ----> amandes amère : 0.5 cuillère à café
-  - ----> pâte d'amande en petits morceaux : 200 g
-  - ----> amandes effilées  : 60 g
-  - ----> oeuf  : 1 
-  - ----> farine  : 240 g
-  - ----> sucre glace  : 2 cuillère à soupe
-  - ----> levure  : 1 cuillère à café
-  - ----> sel  : 0.5 cuillère à café
-  - ----> beurre  : 120 g
-  - ----> lait  : 12 cl
-  - ----> amandes amère : 0.5 cuillère à café
-  - ----> fromage frais  : 85 g
-  - ----> oeuf  : 1 
+  - -----------> Tarte-Tatin-aux-figues-fraîches-et-aux-fruits-secs
+  - ----> sucre  : 20 morceau
+  - ----> eau  : 2 cuillère à soupe
+  - ----> pomme Canada ou pommes Pink Lady : 3 
+  - ----> figue fraîches : 3 
+  - ----> abricot secs : 2 
+  - ----> datte  : 2 
+  - ----> praline (aux amandes ou aux cacahuètes) : 50 g
+  - ----> farine de blé  : 100 g
+  - ----> farine blanche : 150 g
+  - ----> sucre semoule  : 100 g
+  - ----> eau tiède : 0.5 verre
+  - ----> beurre demi-sel ramolli : 200 g
 ##  Mardi-Soir
 - [ ] Entrée
-  - -----------> Gratin-de-radis-roses
-  - ----> gruyère râpé  : 250 g
-  - ----> vin blanc  : 50 cl
-  - ----> ail  : 1 gousse
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> muscade  : oui
-  - ----> radis roses : 2 botte
-  - ----> crème épaisse  : 20 cl
-  - ----> oeuf  : 3 
-  - ----> échalote  : 2 
-  - ----> cerfeuil ou de feuilles de coriandre frais. : oui
+  - -----------> Chausson-de-chèvre-aux-poires
+  - ----> pâte feuilletée  : 1 
+  - ----> chèvre secs : 4 
+  - ----> poire  : 1 
+  - ----> jaune d'oeuf  : 1 
 - [ ] Entrée
-  - -----------> Soupe-panais-et-poires
-  - ----> pomme de terre  : 1 
-  - ----> oignon  : 1 
-  - ----> huile d'olive ou beurre : oui
-  - ----> panais  : 400 g
-  - ----> poire  : 2 
-  - ----> bouillon de volaille  : 1 l
-  - ----> crème ou purée d'amandes : oui
+  - -----------> Crème-de-butternut
+  - ----> curry  : 1 cuillère à soupe
+  - ----> eau  : 100 cl
+  - ----> sel  : oui
+  - ----> courge butternut : 1 
+  - ----> brique crème de coco de 20ml : 1 
+  - ----> oignon rouge  : 1 
 - [ ] Plat-principal
-  - -----------> Lapin-au-fenouil
-  - ----> oignon  : 1 
-  - ----> ail  : 2 gousse
-  - ----> sauge , si possible fraîche, découpée grossièrement : oui
-  - ----> vin blanc  : 25 cl
-  - ----> huile d'olive  : oui
-  - ----> cuisse de lapin  : 4 
-  - ----> lapin entier découpé, selon le goût : oui
-  - ----> fenouil  : 3 bulbe
-  - ----> lard coupé en dés, ou de lardons : 50 g
-  - ----> olives noires , ou vertes : 60 g
-- [ ] Plat-principal
-  - -----------> Reblochon-farci-façon-Tartiflette
-  - ----> reblochon  : 1 
-  - ----> pomme de terre  : 3 
-  - ----> oignon  : 1 
-  - ----> beurre  : 30 g
-  - ----> vin blanc  : 5 cl
+  - -----------> Chapon-au-miel-de-truffe-à-la-cocotte-minute
+  - ----> miel au truffe : 100 g
+  - ----> pomme de terre grenaille : 500 g
+  - ----> gingembre moulu : 0.5 cuillère
+  - ----> sucre en poudre  : 0.6666667 cuillère à soupe
   - ----> sel  : oui
   - ----> poivre  : oui
-  - ----> lardons fumés  : 125 g
-  - ----> filo  : 2 feuille
+  - ----> chapon d'environ 1,5 kg : 1 
+  - ----> marrons  : 500 g
+- [ ] Plat-principal
+  - -----------> Noix-de-Saint-Jacques
+  - ----> champignon de Paris  : 100 g
+  - ----> tagliatelles  : 200 g
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> ail  : oui
+  - ----> coquille saint-jacques  : 200 g
+  - ----> crème  : oui
+  - ----> échalote  : oui
 - [ ] Dessert
-  - -----------> Chouquettes-chocolat-fourrées-à-la-crème-pâtissière
-  - ----> lait  : 1 l
-  - ----> farine  : 100 g
-  - ----> sucre  : 200 g
-  - ----> vanille  : 1 gousse
-  - ----> jaune d'oeuf  : 4 
-  - ----> eau  : 0.25 l
-  - ----> beurre doux  : 100 g
-  - ----> farine  : 150 g
-  - ----> sucre semoule  : 1 cuillère à soupe rase
-  - ----> sel  : 0.5 cuillère à café
-  - ----> levure chimique  : 0.5 cuillère à café
+  - -----------> Cookie-donuts
+  - ----> chocolat  : oui
+  - ----> crème liquide  : oui
+  - ----> beurre tendre  : 75 g
+  - ----> sucre  : 85 g
   - ----> sucre vanillé  : 1 sachet
-  - ----> cacao amer en poudre : 20 g
-  - ----> oeuf  : 3 
-  - ----> sucre en grain  : oui
+  - ----> farine  : 150 g
+  - ----> chocolat noir  : 100 g
+  - ----> sel  : 1 cuillère à café
+  - ----> levure chimique  : 1 cuillère à café
+  - ----> oeuf  : 1 
 - [ ] Dessert
-  - -----------> Gâteau-aux-figues-et-aux-noix
-  - ----> noix  : 125 g
-  - ----> figue  : 250 g
-  - ----> farine + 1 cuillère à soupe (pour les figues) : 150 g
-  - ----> amandes en poudre : 50 g
-  - ----> levure  : 1 cuillère à café
-  - ----> beurre tendre  : 150 g
-  - ----> sucre (plutôt roux) : 150 g
-  - ----> rhum  : 1 cuillère à café
-  - ----> sel  : 1 pincée
-  - ----> oeuf  : 3 
+  - -----------> Sunday-au-caramel
+  - ----> sucre  : 100 g
+  - ----> noisettes concassées et grillées : oui
+  - ----> crème fraîche liquide  : 120 ml
+  - ----> beurre salé  : 20 g
+  - ----> glace vanille  : oui
 ##  Mercredi-Midi
 - [ ] Entrée
-  - -----------> Tarte-tomates-sur-pâte-filo
-  - ----> tomate rouges : 2 
-  - ----> tomate jaune : 1 
-  - ----> tomate verte  : 1 
-  - ----> tomates cerise (ou 1 barquette) : 1 branche
-  - ----> basilic  : oui
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> herbes de Provence  : oui
-  - ----> pâte filo  : 5 feuille
-  - ----> chèvre frais  : 200 g
-  - ----> ciboulette  : oui
+  - -----------> Velouté-d'endives-etde-pommes-de-terre-à-la-moutarde-ancienne
+  - ----> pomme de terre  : 3 
+  - ----> ail  : 1 gousse
+  - ----> jus de citron  : 1 
+  - ----> sucre  : 2 cuillère à café
+  - ----> gros sel  : 3 cuillère à café
+  - ----> moutarde à l'ancienne  : 1 cuillère à soupe
+  - ----> endive  : 6 
+  - ----> lait entier  : 0.75 l
+  - ----> crème liquide  : 20 cl
 - [ ] Amuse-gueule
-  - -----------> Feuilletés-à-l'oignon
-  - ----> pâte brisée  : 1 rouleau
-  - ----> oignon  : 1 kg
-  - ----> crème fraîche  : 20 cl
-  - ----> sel  : oui
+  - -----------> Canapés-au-saumon-fumé-et-mascarpone
+  - ----> pain de mie sans la croûte : 6 tranche
   - ----> poivre  : oui
-  - ----> oeuf  : 2 
-  - ----> lardons fumés  : 75 g
+  - ----> sel  : oui
+  - ----> aneth  : oui
+  - ----> citron  : oui
+  - ----> mascarpone  : 100 g
+  - ----> saumon fumé  : 60 g
 - [ ] Plat-principal
-  - -----------> Magret-de-canard-aux-litchis-comme-à-La-Réunion
-  - ----> oignon (facultatif) : 1 
-  - ----> sel  : oui
-  - ----> poivre  : oui
-  - ----> Magret de Canard  : 1 
-  - ----> litchi  : 1 boîte
-- [ ] Plat-principal
-  - -----------> Cups-raclette
-  - ----> pomme de terre à chair ferme : 3 
-  - ----> beurre  : 30 g
-  - ----> sel  : oui
-  - ----> poivre  : oui
-  - ----> fromage à raclette  : 18 tranche
-  - ----> jambon blanc  : 3 tranche
-  - ----> jambon fumé  : 3 tranche
-  - ----> cornichons  : 6 
-- [ ] Dessert
-  - -----------> Crumble-poires-et-pommes-aux-speculoos
-  - ----> farine  : 150 g
-  - ----> sucre  : 150 g
-  - ----> spéculoos  : 8 
-  - ----> beurre demi-sel  : 150 g
-  - ----> pomme  : 4 
-  - ----> eau  : 0.5 verre
-  - ----> sucre vanillé + 2 cuillères à soupe de sucre. : 1 sachet
-  - ----> poire  : 2 
-- [ ] Dessert
-  - -----------> Compote-de-pommes-aux-speculoos
-  - ----> pomme  : 4 
-  - ----> sucre  : 4 carré
-  - ----> spéculoos  : 8 
-  - ----> vanille (facultatif) : 1 goutte
-##  Mercredi-Soir
-- [ ] Amuse-gueule
-  - -----------> Bouchées-aux-oeufs
-  - ----> oeuf  : 1 
-  - ----> olives vertes  : 5 
-  - ----> olives noires  : 5 
-  - ----> cornichons moyens : 2 
-  - ----> mayonnaise  : 1 cuillère à soupe
-  - ----> ciboulette ou tige d'ail : 18 
-- [ ] Amuse-gueule
-  - -----------> Dip-de-corail-(28-ème-rencontre)
-  - ----> huile d'olive  : 3 cuillère à soupe
+  - -----------> Ratatouille-à-la-citrouille
+  - ----> poivron  : 1 
+  - ----> tomate  : 4 
+  - ----> courgette  : 1 
   - ----> oignon  : 1 
-  - ----> ail  : 2 gousse
-  - ----> gingembre  : 2 cuillère à café
-  - ----> curcuma  : 1 cuillère à café
-  - ----> cumin  : 1 cuillère à café
-  - ----> coriandre  : 1 cuillère à soupe
-  - ----> lentilles corail : 160 g
-  - ----> tomates pelées  : 1 boîte
-- [ ] Plat-principal
-  - -----------> Quiche-au-fromage-façon-gâteau-magique
-  - ----> lait  : 25 cl
-  - ----> beurre  : 65 g
-  - ----> fromage râpé  : 150 g
-  - ----> lardons allumettes fumés : 100 g
-  - ----> farine  : 53 g
-  - ----> muscade  : 1 cuillère à café
+  - ----> ail selon les goûts : 1 gousse
+  - ----> huile d'olive  : oui
   - ----> poivre  : oui
   - ----> sel  : oui
-  - ----> oeuf  : 2 
+  - ----> piment en poudre, herbes de provence... : oui
+  - ----> potiron  : 500 g
 - [ ] Plat-principal
-  - -----------> Gratin-de-chou-fleur-au-thon-et-aux-champignons
-  - ----> champignon de Paris  : 250 g
-  - ----> jus de citron  : oui
-  - ----> muscade  : oui
-  - ----> gruyère râpé  : 50 g
-  - ----> chou-fleur  : 1 kg
-  - ----> thon (280 g égoutté) : 1 grosse boîte
-  - ----> béchamel  : 350 g
-  - ----> échalote  : 1 
+  - -----------> Pita-grillée-foie-gras-magret-de-canard-tomme
+  - ----> pain pita  : 2 
+  - ----> Foie gras  : 2 tranche
+  - ----> Magret de Canard  : 8 fine tranche
+  - ----> tomme  : 4 tranche
+  - ----> savora  : 1 cuillère à soupe
 - [ ] Dessert
-  - -----------> Quatre-quart-aux-poires
-  - ----> beurre  : 100 g
+  - -----------> Poire-panée-facon-poire-belle-Hélène
+  - ----> chocolat  : 150 g
+  - ----> amandes en poudre  : 100 g
+  - ----> amandes effilées  : 20 g
   - ----> farine  : 100 g
-  - ----> sucre + 15 morceaux : 100 g
-  - ----> levure chimique  : 0.5 sachet
+  - ----> huile de friture  : oui
+  - ----> poire  : 4 
+  - ----> glace au chocolat  : 4 boule
+  - ----> crème liquide  : 10 cl
   - ----> oeuf  : 2 
-  - ----> poire  : 2 
 - [ ] Dessert
-  - -----------> Compote-de-figues-fraiches
-  - ----> figue fraiches : 15 
-  - ----> vanille  : 2 bâton
-  - ----> sucre  : 100 g
+  - -----------> Glacé-de-bananes
+  - ----> banane  : 4 
+  - ----> crème fraîche  : 25 cl
+  - ----> citron (prendre le jus d'une moitié) : 1 
+  - ----> sirop de sucre de canne  : 25 cl
+##  Mercredi-Soir
+- [ ] Entrée
+  - -----------> Profiteroles-de-foie-gras-et-sa-compotée-de-figues-au-Montbazillac
+  - ----> figue fraîches (ou surgelées) : 300 g
   - ----> eau  : 2 cuillère à soupe
+  - ----> Confiture de figue  : 0.5 pot
+  - ----> Monbazillac  : 10 cl
+  - ----> beurre  : 60 g
+  - ----> eau  : 25 cl
+  - ----> farine  : 125 g
+  - ----> sel  : oui
+  - ----> oeuf  : 4 
+  - ----> poivre  : oui
+  - ----> fleur de sel  : oui
+  - ----> Foie gras  : 300 g
+- [ ] Amuse-gueule
+  - -----------> Crakers-légers-et-craquants
+  - ----> sucre glace  : 2 cuillère à soupe
+  - ----> vanille en poudre : 0.5 cuillère à café
+  - ----> sucre colorées : oui
+  - ----> curcuma  : 0.5 cuillère à café
+  - ----> sésame  : 2 cuillère à soupe
+  - ----> poivre  : oui
+  - ----> wonton restantes : oui
+  - ----> oeuf  : 1 
+- [ ] Plat-principal
+  - -----------> Blinis-de-St-Jacques-sur-lit-de-poireaux
+  - ----> poireau  : 4 
+  - ----> crème fraîche  : 50 cl
+  - ----> Parmesan  : 50 g
+  - ----> thym  : oui
+  - ----> ail frais et coupé : oui
+  - ----> huile d'olive  : 1 cuillère à soupe
+  - ----> noix de saint-jacques  : 500 g
+  - ----> Blini  : 4 
+- [ ] Plat-principal
+  - -----------> Pintade-au-cidre-et-aux-raisins
+  - ----> beurre  : 50 g
+  - ----> noix décortiquées : 12 
+  - ----> liqueur de calvados : 1 verre
+  - ----> crème fraîche  : 50 g
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> pintade  : 1 
+  - ----> cidre  : 1 verre
+  - ----> cube de bouillon de volaille : 1 
+  - ----> raisin de Smyrne : 50 g
+- [ ] Dessert
+  - -----------> Macarons-aux-amandes
+  - ----> sucre  : 250 g
+  - ----> amandes  : 250 g
+  - ----> blanc d'oeuf battus : 2 
+- [ ] Dessert
+  - -----------> Ramequins-de-crème-au-chocolat
+  - ----> chocolat à croquer : 250 g
+  - ----> maïzena  : 60 g
+  - ----> eau  : 10 cl
+  - ----> lait  : 1 l
+  - ----> sucre semoule  : 120 g
+  - ----> beurre  : 60 g
+  - ----> oeuf  : 2 
 ##  Jeudi-Midi
 - [ ] Entrée
-  - -----------> Tartelettes-de-champignons
-  - ----> pâte brisée  : 1 rouleau
-  - ----> champignon de Paris  : 500 g
-  - ----> beurre  : 25 g
-  - ----> poivre et muscade : oui
-  - ----> sel  : oui
-  - ----> gruyère en bloc : 125 g
-  - ----> oeuf  : 2 
-  - ----> crème  : 20 cl
-- [ ] Entrée
-  - -----------> Bruschetta-sur-croûtons
-  - ----> tomate italiennes : 800 g
-  - ----> ail hachées finement (au goût) : 1 gousse
-  - ----> huile d'olive  : 0.25 tasse
-  - ----> persil frais, haché finement : oui
-  - ----> origan  : oui
-  - ----> basilic  : oui
-  - ----> thym  : oui
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> cheddar râpé : oui
-  - ----> baguette de pain : oui
-- [ ] Plat-principal
-  - -----------> Chapon-farci-de-Noel
-  - ----> persil  : 1 botte
-  - ----> ail  : 1 gousse
-  - ----> lait  : 15 cl
-  - ----> poivre du moulin : oui
-  - ----> sel  : oui
-  - ----> huile  : oui
+  - -----------> Etoile-feuilletée-à-la-crème-de-morilles
+  - ----> crème fraîche  : 3 cuillère à soupe
   - ----> beurre  : oui
-  - ----> chapon d'environ 3 kg : 1 
+  - ----> pâte feuilletée  : 2 
+  - ----> morilles séchées : 10 
   - ----> échalote  : 1 
-  - ----> pain  : 1 grosse poignée
-  - ----> épinards frais  : 200 g
-  - ----> Foie gras mi-cuit : 50 g
-  - ----> oeuf entier : 1 
-  - ----> foie du chapon ou 100 g de foie de lapin (ou de volailles) : oui
+- [ ] Amuse-gueule
+  - -----------> Bonhomme-de-neige-en-boudin
+  - ----> pomme  : 80 g
+  - ----> gélatine  : 2 feuille
+  - ----> boudin blanc  : 2 
 - [ ] Plat-principal
-  - -----------> Daube-de-sanglier-au-cognac
+  - -----------> Pot-au-feu-au-foie-gras
+  - ----> carotte  : 2 
+  - ----> céleri  : 0.25 
   - ----> oignon  : 2 
-  - ----> ail coupées en deux : 3 gousse
-  - ----> clou de girofle  : 4 
-  - ----> carotte émincées : 2 
-  - ----> sel  : 1 poignée
-  - ----> poivre  : 1 poignée
-  - ----> thym  : oui
-  - ----> orange (la peau) : oui
-  - ----> vinaigre  : 1 verre
-  - ----> huile d'olive  : 1 verre
-  - ----> vin rouge où blanc au choix : 1 l
-  - ----> cognac  : 1 verre
-  - ----> eau  : 50 cl
-  - ----> sanglier (viande sans os) : 2 kg
-  - ----> laurier  : oui
+  - ----> bouquet garni  : 1 
+  - ----> ail  : 1 gousse
+  - ----> gros sel  : oui
+  - ----> gingembre (ou une rondelle de gingembre frais) : 1 pincée
+  - ----> carotte  : 2 
+  - ----> pomme de terre moyenne : 1 
+  - ----> poireau  : 1 
+  - ----> poivre mignonnette : oui
+  - ----> Volaille  : 1 kg
+  - ----> canard cru de 350 à 400 g : 1 
+- [ ] Plat-principal
+  - -----------> Chapon-Noëlfarci-et-accompagné-de-fruits
+  - ----> pruneau et 6 abricots secs : 6 
+  - ----> miel  : 1 cuillère à soupe
+  - ----> vanille  : 0.5 gousse
+  - ----> muscade  : oui
+  - ----> vin blanc de cuisine (environ 30 cl) : oui
+  - ----> Noix concassé  : 1 cuillère à soupe
+  - ----> marrons entiers prêts à cuire : 6 
+  - ----> yaourt nature  : 1 
+  - ----> eau  : 1 verre
+  - ----> pruneau et 10 abricots secs : 10 
+  - ----> chapon d'environ 2,2 kg pour 6 personnes : 1 
+  - ----> navet (parfait pour adoucir un peu le sucré de ce plat) : 6 
+  - ----> marrons entiers prêts à cuire : 10 
 - [ ] Dessert
-  - -----------> Soufflé-au-citron
-  - ----> sucre semoule  : 80 g
-  - ----> citron jaunes : oui
-  - ----> citron jaune : oui
-  - ----> sucre glace  : oui
-  - ----> sel  : oui
-  - ----> oeuf  : 3 
+  - -----------> mousse-framboise-ou-fraise
+  - ----> sucre  : 125 g
+  - ----> crème fraîche (liquide) : 500 g
+  - ----> gélatine  : 6 feuille
+  - ----> framboises  : 500 g
 - [ ] Dessert
-  - -----------> Kulfi-à-la-cardamome-(glace-indienne)
-  - ----> cardamome vertes : 12 
-  - ----> sucre ne poudre : 180 g
-  - ----> amandes mondées hachées : 25 g
-  - ----> amandes effilées grillées et cardamomes pour le décor : oui
-  - ----> lait entier  : 2 l
+  - -----------> Gâteau-de-crêpe-à-la-compote-de-pommes
+  - ----> pomme Jonagold : 3 
+  - ----> sucre roux de canne : 2 cuillère à soupe
+  - ----> sucre vanillé  : 1 sachet
+  - ----> cannelle  : 0.5 cuillère à café
+  - ----> beurre  : 1 cuillère à soupe
 ##  Jeudi-Soir
 - [ ] Entrée
-  - -----------> St-jacques-et-betterave-poêlée
-  - ----> fleur de sel  : oui
-  - ----> vinaigre balsamique  : oui
-  - ----> noix de saint-jacques  : 16 
-  - ----> betterave cuite : 1 
-  - ----> mâche  : 200 g
-  - ----> beurre demi-sel  : 2 g
-  - ----> poivre 5 baies  : oui
+  - -----------> Soupe-aux-carottes,-topinambours-et-pommes-de-terre
+  - ----> eau environ : 3 l
+  - ----> carotte  : 1 kg
+  - ----> pomme de terre  : 300 g
+  - ----> muscade en poudre : 1 pincée
+  - ----> sel  : oui
+  - ----> poivre  : oui
+  - ----> crème fraîche  : 20 cl
+  - ----> beurre  : 25 g
+  - ----> topinambour  : 1 kg
 - [ ] Entrée
-  - -----------> Pain-perdu-au-saumon-fumé
-  - ----> vinaigre balsamique  : 1 cuillère à café
-  - ----> huile d'olive  : 2 cuillère à soupe
-  - ----> beurre  : 50 g
+  - -----------> Poêlée-de-langoustines
+  - ----> coriandre moulue, de cumin, de piment et de gingembre : 1 pointe
+  - ----> curry en poudre fort : 2 cuillère à café
+  - ----> oignon  : 1 
+  - ----> ail  : 2 gousse
+  - ----> piment  : 1 gousse
+  - ----> crème fraîche  : 30 cl
+  - ----> langoustine (peut se faire avec des crevettes) : 800 g
+- [ ] Plat-principal
+  - -----------> Chapon-farci-aux-fruits-secs
+  - ----> pruneau et 6 abricots secs : 6 
+  - ----> miel  : 1 cuillère à soupe
+  - ----> vanille  : 0.5 gousse
+  - ----> muscade  : oui
+  - ----> vin blanc de cuisine (environ 30 cl) : oui
+  - ----> Noix concassé  : 1 cuillère à soupe
+  - ----> marrons entiers prêts à cuire : 6 
+  - ----> yaourt nature  : 1 
+  - ----> eau  : 1 verre
+  - ----> pruneau et 10 abricots secs : 10 
+  - ----> chapon d'environ 2,2 kg pour 6 personnes : 1 
+  - ----> navet (parfait pour adoucir un peu le sucré de ce plat) : 6 
+  - ----> marrons entiers prêts à cuire : 10 
+- [ ] Plat-principal
+  - -----------> Poularde-au-champagne
+  - ----> beurre  : 150 g
+  - ----> farine  : 1 cuillère à soupe
+  - ----> crème fraîche  : 1 dl
+  - ----> tomate  : 3 
+  - ----> cognac  : 1 cuillère à café
   - ----> poivre  : oui
   - ----> sel  : oui
-  - ----> pain blanc : 4 tranche
-  - ----> saumon fumé  : 4 tranche
-  - ----> oeuf  : 4 
-  - ----> salade mélangée  : 100 g
-- [ ] Plat-principal
-  - -----------> Filet-de-boeuf-en-croûte
-  - ----> cannelle en poudre : oui
-  - ----> sucre glace  : oui
+  - ----> poularde de Bresse de 1 kg 500 : 1 
+  - ----> champagne  : 0.5 bouteille
+- [ ] Dessert
+  - -----------> crumble-aux-mûres
+  - ----> beurre  : 50 g
+  - ----> Parmesan  : oui
+  - ----> farine  : oui
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> oignon  : 1 
+  - ----> ail  : 1 gousse
+  - ----> courgette  : 2 
+  - ----> poivron rouge  : 1 
+  - ----> lardons  : oui
+  - ----> origan  : oui
+  - ----> thym  : oui
   - ----> huile d'olive  : oui
-  - ----> beurre  : oui
-  - ----> sucre roux  : oui
-  - ----> oignon blanc  : 2 
-  - ----> pomme de terre fermes par personnes (selon la taille) : 1 
-  - ----> concentré de tomates en tube : oui
-  - ----> citron  : 0.5 
-  - ----> curry  : oui
-  - ----> sel  : oui
-  - ----> filet de poulet de 150g : 1 
-  - ----> boeuf haché  : 150 g
-  - ----> oeuf  : 1 
-  - ----> lait de coco  : 20 cl
-  - ----> beurre  : oui
-  - ----> brick  : 4 feuille
-- [ ] Plat-principal
-  - -----------> Julienne-en-croûte-d'amandes
-  - ----> amandes effilées  : 100 g
-  - ----> persil frais haché : 2 cuillère à soupe
-  - ----> beurre  : 50 g
-  - ----> jus de citron  : 2 cuillère à café
-  - ----> citron finement râpé : oui
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> persil pour décorer : oui
-  - ----> légumes taillés en julienne : 700 g
 - [ ] Dessert
-  - -----------> Muffins-framboises-et-chocolat-blanc
-  - ----> farine  : 2 tasse
-  - ----> sucre en poudre  : 0.5 tasse
-  - ----> levure chimique  : 1 cuillère à soupe
-  - ----> sel  : 0.25 cuillère à café
-  - ----> lait  : 1 tasse
-  - ----> huile  : 0.25 tasse
-  - ----> chocolat blanc  : 1 tasse
-  - ----> oeuf  : 1 
-  - ----> framboises  : 1 tasse
-- [ ] Dessert
-  - -----------> Muffins-aux-3-chocolats
-  - ----> sucre en poudre  : 90 g
-  - ----> farine  : 100 g
-  - ----> levure chimique  : 1 sachet
-  - ----> beurre tendre  : 100 g
-  - ----> chocolat noir  : 100 g
-  - ----> chocolat au lait (avec ou sans  noisettes) ou demi carrés : 15 carré
-  - ----> chocolat blanc en pépites : 50 g
-  - ----> oeuf  : 3 
+  - -----------> Compote-de-coings-facile
+  - ----> sucre cristal : 150 g
+  - ----> citron  : 2 
+  - ----> coing  : 1 kg
 ##  Vendredi-Midi
 - [ ] Entrée
-  - -----------> Pains-viennois-au-saumon-fumé
-  - ----> pain viennois  : 8 
-  - ----> saumon fumé  : 4 tranche
-  - ----> fromage fondu : 8 
-  - ----> crème fraîche épaisse  : 1 petit pot
-- [ ] Entrée
-  - -----------> Velouté-glacé-petit-pois-menthe-et-mouillettes-au-chèvre
-  - ----> yaourt natures : 2 
-  - ----> ail  : 1 gousse
-  - ----> sel /poivre : oui
-  - ----> petits pois  : 500 g
-  - ----> menthe  : 2 
-  - ----> bouillon  : oui
-  - ----> pain complet  : 2 tranche
-  - ----> chèvre ou de la buche de chèvre : 1 
-- [ ] Plat-principal
-  - -----------> Chapon-farci-au-foie-gras-et-à-la-truffe
-  - ----> beurre  : 420 g
-  - ----> cognac  : 1 cuillère à soupe
-  - ----> carotte  : 2 
-  - ----> truffe  : 1 
-  - ----> oignon  : 1 
-  - ----> bouquet garni  : 1 
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> chapon et son foie : 1 
-  - ----> Foie gras  : 200 g
-  - ----> bouillon de volaille  : 50 cl
-  - ----> madère  : 10 cl
-- [ ] Plat-principal
-  - -----------> Chapon-poché-et-rôti
-  - ----> reblochon  : 1 
-  - ----> oignon  : 3 
-  - ----> vin blanc sec  : 30 cl
-  - ----> pomme de terre  : 1 kg
-  - ----> crème fraîche semi-épaisse 20% : 20 cl
-  - ----> morbier  : 300 g
-  - ----> raclette au lait cru ( ou autres fromages au goût prononcé) : oui
-  - ----> lardons fumés (ou plus si vous aimez) : 250 g
-  - ----> charcuteries comme vous l'aimez, viande des grisons, coppa... : oui
-  - ----> salade verte : 1 
-- [ ] Dessert
-  - -----------> Cannelés-au-chocolat
-  - ----> chocolat noir  : 70 g
-  - ----> lait  : 50 cl
-  - ----> beurre  : 80 g
-  - ----> vanille  : 1 gousse
-  - ----> sucre semoule  : 250 g
-  - ----> farine  : 100 g
-  - ----> cacao amer  : 20 g
-  - ----> rhum  : 4 cuillère à soupe
-  - ----> sel  : 1 pincée
-  - ----> oeuf entiers + 2 jaunes : 2 
-- [ ] Dessert
-  - -----------> Crème-brûlée-au-chocolat-et-poire-caramélisée
-  - ----> chocolat noir  : 80 g
-  - ----> lait  : 2 cuillère à soupe
-  - ----> crème fraîche  : 6 cuillère à soupe
-  - ----> sucre  : 70 g
-  - ----> pâte sablée  : 1 
-  - ----> oeuf  : 3 
-  - ----> poire  : 1 grosse boîte
-##  Vendredi-Soir
-- [ ] Amuse-gueule
-  - -----------> Caviar-d'artichaut
-  - ----> huile d'olive  : 0.5 verre
-  - ----> citron  : 0.5 
-  - ----> Parmesan  : 120 g
-  - ----> poivre  : oui
-  - ----> sel  : oui
-  - ----> fond d'artichaut en conserve : 300 g
-- [ ] Entrée
-  - -----------> pain-de-potiron-à-la-normande
-  - ----> beurre  : 1 noix
-  - ----> farine  : 100 g
-  - ----> poivre  : oui
-  - ----> sel  : oui
+  - -----------> Flans-de-poireaux-et-coulis-vert
+  - ----> poireau  : 800 g
+  - ----> beurre  : oui
   - ----> muscade  : oui
-  - ----> potiron  : 300 g
-  - ----> oeuf  : 4 
-  - ----> sel de céleri facultatif : oui
-  - ----> crème  : 25 cl
-- [ ] Plat-principal
-  - -----------> Salade-de-Noël
-  - ----> courgette  : 2 
-  - ----> parmesan râpé (soit 1 sachet, mais c'est encore meilleur si vous râpez vous même votre morceau de parmesan) : 50 g
-  - ----> citron jaune : oui
-  - ----> huile d'olive  : 3 cuillère
-  - ----> pignons de pin : 50 g
-  - ----> ail  : 1 gousse
-  - ----> basilic  : oui
-  - ----> fleur de sel  : oui
-  - ----> poivre du moulin : oui
-- [ ] Plat-principal
-  - -----------> Dinde-farcie-et-sauce-au-vin
-  - ----> beurre  : 150 g
-  - ----> truffe  : 1 petite boîte
-  - ----> lait  : 10 cl
   - ----> poivre  : oui
   - ----> sel  : oui
-  - ----> cognac  : 3 cl
-  - ----> liqueur de porto : 3 cl
-  - ----> beurre  : 50 g
-  - ----> farine  : 50 g
-  - ----> vin rouge  : 75 cl
-  - ----> liqueur de porto : 3 cl
-  - ----> dinde  : 1 
-  - ----> porc  : 500 g
-  - ----> veau  : 500 g
-  - ----> oeuf  : 4 
-  - ----> crème  : 10 cl
-  - ----> pain  : 80 g
-- [ ] Dessert
-  - -----------> Nems-de-poires-au-chocolat
-  - ----> beurre  : 40 g
-  - ----> chocolat pâtissier  : 1 tablette
-  - ----> poire  : 2 
-  - ----> sirop de sucre de canne  : 2 cuillère à soupe
-  - ----> brick  : 4 feuille
-- [ ] Confiserie
-  - -----------> Confiture-d'airelles
-  - ----> sucre  : 1.8 kg
-  - ----> citron  : oui
-  - ----> eau  : 0.5 verre
-  - ----> airelles  : 2 kg
-##  Samedi-Midi
+  - ----> oeuf  : 5 
+  - ----> crème fraîche épaisse  : 20 cl
+  - ----> vinaigrette  : oui
 - [ ] Entrée
-  - -----------> Granité-de-concombre
-  - ----> jus de citron  : 2 cuillère à soupe
-  - ----> coriandre fraîche : 5 branche
+  - -----------> Soupe-au-potiron-au-mascarpone
+  - ----> courgette  : 1 
   - ----> ail  : 2 gousse
   - ----> poivre  : oui
   - ----> sel  : oui
-  - ----> concombre  : 1 
-  - ----> crème épaisse  : 200 g
-  - ----> menthe fraîche : 20 feuille
+  - ----> muscade  : oui
+  - ----> piment d'Espelette  : oui
+  - ----> potiron  : 1 
+  - ----> bouillon de volaille  : 1 
+  - ----> mascarpone  : 180 g
+  - ----> basilic frais  : 5 branche
+- [ ] Plat-principal
+  - -----------> Risotto-Milanais
+  - ----> huile d'olive de Toscane ou d'Italie : oui
+  - ----> riz pour risotto  : 250 g
+  - ----> oignon haché : 1 
+  - ----> safran (1 dose ou quelques filaments) : oui
+  - ----> vin blanc sec  : 15 cl
+  - ----> parmesan râpé  : oui
+  - ----> bouillon de volaille  : 1 l
+- [ ] Plat-principal
+  - -----------> Sauté-d'agneau-au-chocolat
+  - ----> beurre  : 20 g
+  - ----> huile  : 2 cuillère à soupe
+  - ----> vin rouge  : 30 dl
+  - ----> bouquet garni  : 1 
+  - ----> cacao en poudre : 2 cuillère à café
+  - ----> chocolat mi-amer : 30 g
+  - ----> épaule d'agneau  : 800 g
+  - ----> échalote  : 2 
+- [ ] Dessert
+  - -----------> Gratiné-de-bananes
+  - ----> vanille  : 0.5 gousse
+  - ----> beurre  : 10 g
+  - ----> banane  : 4 
+  - ----> rhum ambré : 18 cl
+  - ----> oeuf  : 3 
+  - ----> crème liquide entière (30%) : 4 cl
+  - ----> sirop de sucre de canne  : 10 cl
+  - ----> jus d'orange  : 2 cuillère à soupe
+- [ ] Dessert
+  - -----------> Beignets-de-banane
+  - ----> banane  : 3 
+  - ----> sucre  : 75 g
+  - ----> farine  : 150 g
+  - ----> oeuf  : 2 
+##  Vendredi-Soir
 - [ ] Entrée
-  - -----------> Cabillaud-en-accras
-  - ----> pomme de terre  : 100 g
-  - ----> farine  : 120 g
-  - ----> lait  : 5 cl
+  - -----------> Cappuccino-de-cèpes,-éclats-de-châtaignes-et-potimarron
+  - ----> champignon de Paris  : 60 g
   - ----> ail  : 1 gousse
-  - ----> piment  : oui
-  - ----> huile de friture  : oui
+  - ----> huile d'olive  : oui
+  - ----> thym  : oui
+  - ----> cèpes secs : 40 g
+  - ----> blanc de poireau  : 0.5 
+  - ----> bouillon de volaille  : 0.5 l
+  - ----> potimarron  : oui
+  - ----> châtaignes en boîte : oui
+  - ----> blanc d'oeuf  : 2 
+  - ----> crème fraîche liquide  : 50 g
+  - ----> fenouil  : 0.5 bulbe
+- [ ] Amuse-gueule
+  - -----------> Crostini-au-chou-fleur
+  - ----> huile d'olive  : 3 cuillère à soupe
+  - ----> ail  : 2 gousse
+  - ----> persil haché : oui
+  - ----> poivre du moulin : oui
+  - ----> sel  : oui
+  - ----> chou-fleur  : 1 
+  - ----> baguette de campagne : 1 
+  - ----> tomates confites à l’huile  : 4 demi
+- [ ] Plat-principal
+  - -----------> Fricassée-d'agneau-à-l'oseille
+  - ----> beurre  : 80 g
+  - ----> oignon moyens : 2 
+  - ----> farine  : 1 cuillère à soupe
+  - ----> huile  : oui
   - ----> poivre  : oui
   - ----> sel  : oui
-  - ----> lieu noir  : 400 g
-  - ----> oeuf  : 1 
-  - ----> échalote  : 2 
-  - ----> ciboulette  : oui
+  - ----> épaule agneau : 1 kg
+  - ----> oseille  : 200 g
+  - ----> jaune d'oeuf  : 1 
+  - ----> bouillon  : 20 cl
 - [ ] Plat-principal
-  - -----------> Soupe-de-poulet-à-la-citronnelle
-  - ----> galanga coupé en fines lamelles : 5 
-  - ----> citronnelle écrasées : 3 
-  - ----> champignon en fines lamelles (les chapignons thaï étant difficiles à trouver) : 150 g
-  - ----> citron  : 3 cuillère à soupe
-  - ----> nuoc mam (sauce poisson) : 0.5 cuillère à soupe
-  - ----> coriandre fraîche avec les racines : 3 petit bouquet
-  - ----> coriandre bien lavées : 4 
-  - ----> bouillon de poule  : 1 l
-  - ----> bergamote  : 3 feuille
-  - ----> crevettes crues : 8 
-  - ----> petit piment (pili pili) verts et rouges : 5 
-- [ ] Plat-principal
-  - -----------> Chapontruffé-poché-au-champagne
-  - ----> cognac  : 2 cl
-  - ----> sucre roux (cassonade)  : 1 morceau
-  - ----> angostura bitters  : 3 trait
-  - ----> champagne  : 10 cl
+  - -----------> Emincé-de-poulet-aux-fanes-d'oignons-nouveaux
+  - ----> beurre  : 25 g
+  - ----> sel  : 1 pincée
+  - ----> piment d'Espelette ou de poivre en poudre : 1 pincée
+  - ----> oignon nouveau  : oui
+  - ----> blanc de poulet  : 2 
 - [ ] Dessert
-  - -----------> Gâteau-à-la-poire-à-la-poêle
-  - ----> chocolat spécial dessert : 100 g
-  - ----> beurre tendre  : 100 g
-  - ----> amandes en poudre  : 100 g
-  - ----> sucre en poudre  : 125 g
-  - ----> poire conférences bien mûres : 3 
+  - -----------> Pommes-au-four-cévenoles
+  - ----> pomme à cuire : 4 
+  - ----> beurre  : oui
+  - ----> sucre en poudre  : oui
+  - ----> crème de marron  : 125 g
+  - ----> marrons glacés : 4 
+- [ ] Dessert
+  - -----------> Push-cake-facile-aux-biscuits-roses-et-aux-framboises
+  - ----> vanille  : 1 gousse
+  - ----> sucre glace  : 25 g
+  - ----> sucre  : oui
+  - ----> biscuit rose de Reims  : 10 
+  - ----> framboises  : 250 g
+  - ----> mascarpone  : 175 g
+  - ----> crème liquide entière : 25 cl
+##  Samedi-Midi
+- [ ] Entrée
+  - -----------> Soupe-de-potiron
+  - ----> carotte  : 300 g
+  - ----> oignon  : 200 g
+  - ----> poireau  : 200 g
+  - ----> beurre  : oui
+  - ----> ail  : 3 gousse
+  - ----> bouquet garni  : 1 
+  - ----> crème fraîche  : 40 cl
+  - ----> sel  : oui
+  - ----> potiron  : 1 kg
+- [ ] Entrée
+  - -----------> Mousse-de-foie-de-volaille
+  - ----> beurre  : 150 g
+  - ----> jus de citron  : 0.5 
+  - ----> sel  : 1 cuillère à café
+  - ----> cognac ou whisky : 1 cuillère à soupe
+  - ----> poivre vert au naturel : 1 cuillère à soupe
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> foie de volaille : 300 g
+  - ----> échalote hachées finement : 2 
+  - ----> thé de thym : 1 cuillère
+- [ ] Plat-principal
+  - -----------> Gratin-d'Hiver
+  - ----> lardons allumette : 100 g
+  - ----> oignon  : 1 
+  - ----> poivre  : oui
+  - ----> sel  : oui
+  - ----> courge  : 1 kg
+  - ----> semoule de couscous : 150 g
+  - ----> crème fraîche liquide  : 5 cl
+  - ----> gruyère  : 50 g
+- [ ] Plat-principal
+  - -----------> Tarte-aux-ravioles-et-au-chèvre
+  - ----> poivre  : oui
+  - ----> sel  : oui
   - ----> pâte feuilletée  : 1 
+  - ----> raviole  : 1 paquet
+  - ----> crème semi-épaisse  : 25 cl
+  - ----> bûche de chèvre  : 1 
+- [ ] Dessert
+  - -----------> Pancakes-aux-noisettes
+  - ----> farine  : 300 g
+  - ----> sucre  : 200 g
+  - ----> levure chimique  : 0.6666667 sachet
+  - ----> lait  : 40 cl
+  - ----> poudre de noisette  : 200 g
   - ----> oeuf  : 2 
 - [ ] Dessert
-  - -----------> Fondant-au-citron-d'Hannah
-  - ----> sucre glace  : 2 cuillère à soupe
-  - ----> citron  : 1 
-  - ----> farine  : 300 g
-  - ----> sel  : 1 pincée
-  - ----> sucre glace  : 100 g
-  - ----> beurre tendre  : 250 g
-  - ----> sucre en poudre  : 350 g
-  - ----> jus de citron  : 10 cl
-  - ----> oeuf  : 4 
+  - -----------> Pommes-au-four-farcies-aux-amandes-et-au-miel
+  - ----> pomme (par exemple Royal Gala ou reinette) : 1 
+  - ----> amandes en poudre  : 1 cuillère à soupe
+  - ----> beurre  ou margarine : 1 noisette
+  - ----> miel  : 1 cuillère à café
+  - ----> eau de fleur d'oranger  : 0.5 cuillère à café
+  - ----> cassonade (facultatif) : oui
 ##  Samedi-Soir
-- [ ] Amuse-gueule
-  - -----------> Brochettes-crevettes-clémentines
-  - ----> pain de mie classique : 1 sachet
-  - ----> persil plat : oui
-  - ----> crevettes avec queues (surgelées ou fraîches) : 30 
-  - ----> fromage frais nature : 1 pot
-  - ----> clémentine (30 quartiers) : 6 
 - [ ] Entrée
-  - -----------> Mousse-de-thon-au-fromage-ail-et-fines-herbes
-  - ----> thon à l'huile d'olive : 3 grosse boîte
-  - ----> fromage ail et fines herbes  : 3 boîte
-  - ----> olives noires à la grecque : 30 
+  - -----------> Bonbons-de-pâte-filo-aux-noix-de-St-Jacques
+  - ----> persil plat : 1 bouquet
+  - ----> beurre  : 75 g
+  - ----> piment doux : 1 cuillère à café
+  - ----> pâte filo  : 4 feuille
+  - ----> noix de saint-jacques  : 300 g
+- [ ] Amuse-gueule
+  - -----------> Bottes-de-noël-en-knacki
+  - ----> knacki  : 4 
+  - ----> fromage frais  : 80 g
+  - ----> ciboulette  : oui
 - [ ] Plat-principal
-  - -----------> Verrines-de-Noël
-  - ----> tomate  : 1 
-  - ----> citron  : 1 
-  - ----> huile d'olive  : oui
-  - ----> sel  : oui
-  - ----> poivre  : oui
-  - ----> avocat bien mûrs : 2 
-  - ----> thon  : 1 boîte
-  - ----> crème fraîche épaisse  : 2 cuillère à soupe
+  - -----------> Soupe-crevettes,-coco-et-gingembre
+  - ----> gingembre frais (ou confit) haché : oui
+  - ----> échalote fraîches (ou surgelées) coupées finement : oui
+  - ----> bouillon de volaille  : 1 tablette
+  - ----> crevettes (assez grosses de péférence) : 300 g
+  - ----> lait de coco  : 1 boîte
+  - ----> citron vert (ou jaune) : 1 
 - [ ] Plat-principal
-  - -----------> Galantine-de-dinde
-  - ----> parmesan râpé  : 75 g
-  - ----> pistaches au naturel : 20 g
-  - ----> lait  : 0.5 verre
-  - ----> vin blanc sec  : 1 verre
-  - ----> oignon  : 1 
-  - ----> carotte  : 1 
-  - ----> romarin frais : 1 branche
-  - ----> sel de Guérande : oui
-  - ----> poivre  : oui
-  - ----> muscade  : oui
-  - ----> huile d'olive  : 1 filet
-  - ----> rôti de porc  : 300 g
-  - ----> jambon cru  : 75 g
-  - ----> oeuf  : 1 
-  - ----> pain rassi : 3 tranche
-  - ----> truffe noire du périgord  : 2 
-  - ----> blanc de dinde  : 600 g
+  - -----------> Pizza-gaufrée-au-fromage
+  - ----> champignon de Paris  : 200 g
+  - ----> origan  : 1 cuillère à soupe
+  - ----> pâte à pizza (en boule) : 1 
+  - ----> mozzarella  : 2 boule
+  - ----> coulis de tomate  : 30 cl
+  - ----> jambon  : 4 tranche
 - [ ] Dessert
-  - -----------> Pudding-chocolat-banane-vanille-et-graines-de-chia
-  - ----> banane bien mûre : 1 
-  - ----> cacao en poudre : 2 cuillère à soupe
-  - ----> extrait de vanille  : 1 cuillère à café
-  - ----> lait de coco  : 15 cl
-  - ----> graines de chia  : 1 cuillère à soupe
-  - ----> datte  : 4 
-  - ----> miel  : 2 cuillère à soupe
-  - ----> extrait de vanille  : 1 cuillère à café
-  - ----> lait de coco  : 15 cl
-  - ----> graines de chia  : 1 cuillère à soupe
+  - -----------> Compote-de-pommes-et-de-poires-meringuée
+  - ----> sucre glace  : 4 cuillère
+  - ----> amandes effilées  : 1 cuillère à soupe
+  - ----> blanc d'oeuf  : 4 
+  - ----> pomme type golden : 4 
+  - ----> beurre  : 40 g
+  - ----> sucre roux  : 30 g
+  - ----> cannelle en poudre : 0.5 cuillère à café
+  - ----> poire type louise-bonne : 4 
 - [ ] Dessert
-  - -----------> Pommes-au-four-à-la-normande
-  - ----> pomme reinettes : 6 
-  - ----> sucre en poudre  : 100 g
-  - ----> beurre  : 30 g
-  - ----> cidre  : 20 cl
+  - -----------> Fondant-ultra-fondant-aux-amandes
+  - ----> sucre  : 200 g
+  - ----> beurre  : 100 g
+  - ----> amandes en poudre  : 200 g
+  - ----> oeuf  : 4 
