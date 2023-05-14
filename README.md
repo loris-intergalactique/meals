@@ -1,1 +1,53 @@
 # Magic Meals
+##  Dimanche-Midi
+- [ ] Entrée
+  - -----------> Cabillaud-en-accras
+- [ ] Entrée
+  - -----------> Velouté-vert-de-printemps,-petits-pois,-épinards-et-menthe
+- [ ] Plat-principal
+  - -----------> Gaufres-feuilletées-jambon-fromage
+- [ ] Plat-principal
+  - -----------> Poireaux-rôtis-avec-vinaigrette-et-feta
+- [ ] Dessert
+  - -----------> Flan-au-thé
+- [ ] Confiserie
+  - -----------> Savarins-au-chocolat
+##  Dimanche-Soir
+- [ ] Entrée
+  - -----------> Langoustines-croustillantes-au-basilic
+- [ ] Amuse-gueule
+  - -----------> Boulettes-de-carottes-au-cumin,-sésame-et-pavot
+- [ ] Plat-principal
+  - -----------> Escalopes-de-céleri
+- [ ] Plat-principal
+  - -----------> Faisan-aux-figues
+- [ ] Dessert
+  - -----------> Fondue-au-chocolat-maison
+- [ ] Dessert
+  - -----------> Petits-gâteauxmousse-au-chocolat
+##  Lundi-Midi
+- [ ] Entrée
+  - -----------> Velouté-d'asperges-de-Martine
+- [ ] Entrée
+  - -----------> Tourte-aux-épinards
+- [ ] Plat-principal
+  - -----------> Quinoa-aux-petits-pois-et-à-la-feta
+- [ ] Entrée
+  - -----------> Quiche-aux-asperges-et-au-saumon
+- [ ] Dessert
+  - -----------> Petits-pot-de-crème-à-la-vanille,-simple-rapide-et-économique
+- [ ] Dessert
+  - -----------> Crumble-banane-chocolat-speculoos-revisité-façon-glacé
+##  Lundi-Soir
+- [ ] Entrée
+  - -----------> Focaccia-aux-asperges-vertes
+- [ ] Entrée
+  - -----------> Oeufs-cocotte-aux-asperges
+- [ ] Plat-principal
+  - -----------> Gratin-de-gnocchis-aux-épinards
+- [ ] Plat-principal
+  - -----------> Wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés
+- [ ] Dessert
+  - -----------> Biscuits-à-la-pistache
+- [ ] Dessert
+  - -----------> Gaufres-au-yaourt-et-à-la-farine-d'épeautre
