@@ -35,85 +35,81 @@
 
 
 
-
-
-
-
 ##  Dimanche-Midi
 - [ ] Entrée
-  - -----------> Chou-fleur-râpé-à-la-pomme-et-au-curry
+  - -----------> Avocats-aux-pommes-et-aux-endives
 - [ ] Entrée
-  - -----------> Oeuf-au-plat-savoyard
-- [ ] Plat-principal
-  - -----------> Croque-monsieur-au-grille-pain
-- [ ] Plat-principal
-  - -----------> Ailerons-de-poulet-marinés-et-pannés
+  - -----------> Velouté-de-salsifis
+- [ ] Accompagnement
+  - -----------> Tartinade-à-l'aneth
+- [ ] Accompagnement
+  - -----------> Salade-chaud-froid-aux-pâtissons-et-tomates
+- [ ] Confiserie
+  - -----------> Fortune-cookies-(biscuits-de-chance-asiatiques)
 - [ ] Dessert
-  - -----------> Crêpes-suzettes
-- [ ] Dessert
-  - -----------> Gâteau-à-la-cannelle-(dosage-facile)
+  - -----------> Compote-light-pommes-kiwi-à-la-cannelle
 ##  Dimanche-Soir
 - [ ] Entrée
-  - -----------> Toast-fondants-d'époisses-sur-pain-d'épices
+  - -----------> Betterave-à-la-mozzarella
 - [ ] Entrée
-  - -----------> Tartare-de-saumon-à-l'orange
+  - -----------> Potage-aux-choux-de-Bruxelles
 - [ ] Plat-principal
-  - -----------> Filets-de-lièvre-aux-petits-oignons-et-aux-raisins
+  - -----------> Escalopes-de-céleri
 - [ ] Plat-principal
-  - -----------> Risotto-aux-trois-champignons
+  - -----------> Brochettes-de-mouton-au-lard
 - [ ] Dessert
-  - -----------> Soupe-au-chocolat
+  - -----------> Cookies-coeur-caramel
 - [ ] Dessert
-  - -----------> Gâteau-de-crêpes
+  - -----------> Mousse-au-caramel-facile
 ##  Lundi-Midi
 - [ ] Entrée
-  - -----------> Feta-en-papillotes-à-la-confiture-d’oignons
+  - -----------> Terrine-de-boeuf
 - [ ] Entrée
-  - -----------> Terrine-de-campagne-maison
+  - -----------> Tartines-poire-fromage
 - [ ] Plat-principal
-  - -----------> Risotto-aux-truffes-et-à-la-moelle
+  - -----------> Brochettes-d'agneau-à-la-menthe
 - [ ] Plat-principal
-  - -----------> Pâté-de-Pâques-(Berry)
+  - -----------> Noix-de-saint-jacques-au-safran
 - [ ] Dessert
-  - -----------> Tiramisu-meringué
+  - -----------> Délice-de-pamplemousse
 - [ ] Dessert
-  - -----------> Soupe-d'agrumes-au-miel-
+  - -----------> soupe-de-clémentines-au-miel-et-romarin
 ##  Lundi-Soir
 - [ ] Entrée
-  - -----------> Emincé-de-fenouil-au-thon
-- [ ] Entrée
-  - -----------> Petites-mousses-de-chou-fleur,-sauce-crevettes
+  - -----------> Crème-de-céleri
+- [ ] Amuse-gueule
+  - -----------> Rillettes-de-confit-de-canard
 - [ ] Plat-principal
-  - -----------> Risotto-aux-2-poivrons
-- [ ] Accompagnement
-  - -----------> Baguette-au-barbecue
+  - -----------> Magrets-de-canard-aux-clémentines
+- [ ] Plat-principal
+  - -----------> Pintade-au-cidre-et-aux-raisins
 - [ ] Dessert
-  - -----------> Pancake-coco
+  - -----------> Tarte-aux-agrumes
 - [ ] Dessert
-  - -----------> Crème-brulée-à-la-vanille-Bourbon
+  - -----------> Gâteau-au-yaourt-à-la-framboise-et-au-chocolat
 ##  Mardi-Midi
 - [ ] Entrée
-  - -----------> Soupe-au-potiron-rapide
+  - -----------> Chou-rouge-aux-grains-d'anis-vert
 - [ ] Entrée
-  - -----------> Crêpes-aux-oursins
+  - -----------> Oeufs-frits-à-la-viande-et-raïta-aux-radis
 - [ ] Plat-principal
-  - -----------> Canard-à-l'orange-sanguine
-- [ ] Plat-principal
-  - -----------> Risotto-Milanais
+  - -----------> Tartine-au-Carpaccio-de-Boeuf
+- [ ] Accompagnement
+  - -----------> Risotto-aux-délices-d'artichauts
 - [ ] Dessert
-  - -----------> Yaourt-au-café
+  - -----------> Profiteroles-à-la-mousse-de-mandarine
 - [ ] Dessert
-  - -----------> Crêpes-tourbillon
+  - -----------> Cannelés-façon-pommes-d'amour
 ##  Mardi-Soir
 - [ ] Entrée
-  - -----------> Avocats-à-la-sardine
+  - -----------> Chèvre-à-la-grenade
 - [ ] Entrée
-  - -----------> Ecume-de-cola-sur-chips-de-bacon
+  - -----------> Quesadillas-poire-raclette
 - [ ] Plat-principal
-  - -----------> Artichaut-farci
-- [ ] Accompagnement
-  - -----------> Melanzane-in-carrozza
+  - -----------> Risotto-aux-petits-pois
+- [ ] Plat-principal
+  - -----------> Galette-de-fèves
 - [ ] Dessert
-  - -----------> Crêpe-au-chocolat
-- [ ] Dessert
-  - -----------> Crêpe-normande-(ou-crêpe-à-la-pomme)
+  - -----------> Mousse-au-citron-facile
+- [ ] Confiserie
+  - -----------> Confiture-de-mandarine-à-la-liqueur-
