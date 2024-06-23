@@ -43,99 +43,99 @@
 
 ##  Dimanche-Midi
 - [ ] Entrée
-  - -----------> Taboulé-de-mémé
-- [ ] Plat-principal
-  - -----------> Omelette-à-la-feta
+  - -----------> Bricks-au-thon-et-à-l'oeuf
+- [ ] Accompagnement
+  - -----------> Flan-de-courgettes-au-chèvre
 - [ ] Dessert
-  - -----------> Crumble-aux-abricots
+  - -----------> Pain-perdu-Antillais
 ##  Dimanche-Soir
 - [ ] Entrée
-  - -----------> Poêlée-d'asperges-vertes-et-coppa
+  - -----------> Fonds-d'artichauts-au-chèvre-chaud
 - [ ] Plat-principal
-  - -----------> Poulet-Teriyaki
+  - -----------> Gratin-de-chou-romanesco
 - [ ] Dessert
-  - -----------> Clafoutis-amandine-aux-cerises
+  - -----------> Flan-aux-oeufs-(tout-simplement)
 ##  Lundi-Midi
-- [ ] Entrée
-  - -----------> Pizza-aux-3-fromages
-- [ ] Accompagnement
-  - -----------> Brochettes-de-légumes-au-barbecue
+- [ ] Amuse-gueule
+  - -----------> Beignets-de-crevettes-aux-oignons
+- [ ] Plat-principal
+  - -----------> lapin-en-sauce
 - [ ] Dessert
-  - -----------> Navettes-marseillaises-façon-Pitchoune
+  - -----------> Petit-framboisier
 ##  Lundi-Soir
 - [ ] Entrée
-  - -----------> Roulés-de-jambon-cru-au-fromage-
-- [ ] Accompagnement
-  - -----------> Clafoutis-courgettes-mozzarella
+  - -----------> Petit-soufflé-léger-au-fromage-de-chèvre
+- [ ] Plat-principal
+  - -----------> Cuisses-de-poulet-en-papillote
 - [ ] Dessert
-  - -----------> Tarte-au-chocolat,-caramel-et-mascarpone
+  - -----------> Granité-aux-fraises
 ##  Mardi-Midi
 - [ ] Entrée
-  - -----------> Blinis-de-courgettes-et-aubergines-à-l'ail
+  - -----------> Madeleines-salées-au-pesto-et-pignons-de-pin-(5ème-Rencontre...
 - [ ] Plat-principal
-  - -----------> Pizza-aux-courgettes-et-à-la-mozzarella
+  - -----------> Paupiettes-de-veau-flambées-au-Cognac
 - [ ] Dessert
-  - -----------> Crème-renversée-au-caramel
+  - -----------> Biscuits-à-l'avoine
 ##  Mardi-Soir
-- [ ] Amuse-gueule
-  - -----------> Tomates-cerise-farcies-au-thon
-- [ ] Plat-principal
-  - -----------> Poulet-au-four-simple-et-savoureux
+- [ ] Entrée
+  - -----------> gaspacho-de-betterave-rouge
+- [ ] Accompagnement
+  - -----------> Petits-pains-lardons-comté
 - [ ] Dessert
-  - -----------> Brochettes-de-fruits-au-barbecue
+  - -----------> Tarte-d'été-aux-abricots
 ##  Mercredi-Midi
 - [ ] Entrée
-  - -----------> Salade-de-riz-d'été-facile
-- [ ] Plat-principal
-  - -----------> Gratin-de-macaroni-aux-lardons
+  - -----------> Salade-de-betteraves-à-l'orientale
+- [ ] Accompagnement
+  - -----------> Onion-rings-(pâte-à-beignet)
 - [ ] Dessert
-  - -----------> Gâteau-à-la-rhubarbe
+  - -----------> Mousse-aux-trois-chocolats-(3ème-rencontre-Marmiton)
 ##  Mercredi-Soir
-- [ ] Entrée
-  - -----------> Flan-aux-carottes
+- [ ] Amuse-gueule
+  - -----------> Pistounade
 - [ ] Plat-principal
-  - -----------> Brochettes-de-canard-aux-pêches
+  - -----------> Haricots-blancs-au-chorizo
 - [ ] Dessert
-  - -----------> Cinnamon-roll-(roulés-à-la-cannelle)-(Etats-Unis)
+  - -----------> Moelleux-à-la-pêche
 ##  Jeudi-Midi
 - [ ] Entrée
-  - -----------> Gaspacho-concombre-menthe
+  - -----------> Soupe-de-concombre
 - [ ] Plat-principal
-  - -----------> Risotto-au-poulet-et-chorizo
+  - -----------> Brochettes-de-crevettes-marinées-à-l'ail
 - [ ] Dessert
-  - -----------> Verrines-de-fromage-blanc-et-cerises
+  - -----------> Le-Zebra-Cake
 ##  Jeudi-Soir
 - [ ] Entrée
-  - -----------> Roulade-de-poivron-au-thon-et-à-la-feta
+  - -----------> Croissants-au-jambon
 - [ ] Plat-principal
-  - -----------> Tarte-basquaise
+  - -----------> Salade-de-pommes-de-terre-et-saumon
 - [ ] Dessert
-  - -----------> Coupes-de-crème-au-mascarpone-et-framboises-façon-crumble
+  - -----------> Tarte-au-citron-(pâte-à-tarte-maison)
 ##  Vendredi-Midi
-- [ ] Entrée
-  - -----------> Courgettes-au-chèvre-et-aux-épices
-- [ ] Accompagnement
-  - -----------> Petits-pains-délicieux
+- [ ] Amuse-gueule
+  - -----------> Houmous-aux-poivrons-grillés
+- [ ] Plat-principal
+  - -----------> Hamburger-au-barbecue
 - [ ] Dessert
-  - -----------> Tiramisu-aux-cerises-parfumées-à-la-cannelle
+  - -----------> Bettelmann-(mendiant-aux-cerises-noires)
 ##  Vendredi-Soir
 - [ ] Entrée
-  - -----------> Salade-de-concombres-et-melons-à-la-menthe
+  - -----------> Gaspacho-tout-vert
 - [ ] Plat-principal
-  - -----------> poulet-grillé-sauce-soja-(barbecue)
+  - -----------> Aubergine-à-la-carbonara
 - [ ] Dessert
-  - -----------> Trifle-aux-fraises
+  - -----------> Mousse-de-fraises-glacée
 ##  Samedi-Midi
-- [ ] Entrée
-  - -----------> Gaspacho-express
-- [ ] Plat-principal
-  - -----------> Pommes-de-terre-nouvelles-à-l'ail-et-au-laurier
-- [ ] Dessert
-  - -----------> Crumble-aux-cerises
-##  Samedi-Soir
 - [ ] Amuse-gueule
-  - -----------> Purée-d'ail
+  - -----------> Canapés-de-concombre-au-boursin
 - [ ] Plat-principal
-  - -----------> Vraie-salade-Niçoise
+  - -----------> Tarte-aux-brocolis-et-à-la-poudre-d'amandes
 - [ ] Dessert
-  - -----------> Gâteau-rapide-au-citron
+  - -----------> Glace-au-chocolat,-caramel-et-noisettes
+##  Samedi-Soir
+- [ ] Entrée
+  - -----------> Rillettes-de-sardines-aux-oignons-et-ail-
+- [ ] Accompagnement
+  - -----------> Hasselback-de-courgette
+- [ ] Dessert
+  - -----------> Charlotte-aux-fruits-légère
