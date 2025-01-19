@@ -44,6 +44,13 @@
 
 
 
+
+
+
+
+
+
+
 ##  Dimanche-Midi
 ##  Dimanche-Soir
 ##  Lundi-Midi
@@ -58,3 +65,8 @@
 ##  Vendredi-Soir
 ##  Samedi-Midi
 ##  Samedi-Soir
+  - -----------> Mes-aides-à-la-cuisine
+  - -----------> Participer-au-forum
+
+
+
